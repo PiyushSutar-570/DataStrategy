@@ -1,0 +1,87 @@
+{
+    "ab_testing": {
+        "control_mean_spend": 337.33,
+        "variant_mean_spend": 364.32,
+        "spend_difference": 26.99,
+        "t_statistic": 2.2429,
+        "p_value_spend": 0.025051700143688564,
+        "control_conv_rate": 53.55,
+        "variant_conv_rate": 69.19,
+        "conv_lift_pct": 29.2,
+        "chi2_stat_conv": 37.9741,
+        "p_value_conv": 7.168948089909926e-10,
+        "significant": true
+    },
+    "anova_membership_tiers": {
+        "f_statistic": 142.0678,
+        "p_value": 5.3762801455304795e-81,
+        "tier_metrics": {
+            "Basic": {
+                "count": 618,
+                "mean": 256.61,
+                "std": 142.85
+            },
+            "Gold": {
+                "count": 278,
+                "mean": 457.47,
+                "std": 256.1
+            },
+            "Platinum": {
+                "count": 146,
+                "mean": 602.89,
+                "std": 330.37
+            },
+            "Silver": {
+                "count": 458,
+                "mean": 332.29,
+                "std": 192.18
+            }
+        },
+        "significant": true
+    },
+    "chi_square_churn": {
+        "chi2_statistic": 9.2643,
+        "p_value": 0.025976027946882953,
+        "degrees_of_freedom": 3,
+        "significant": true
+    },
+    "ml_churn_model": {
+        "roc_auc_score": 0.6225,
+        "feature_importances": {
+            "Age": 0.1183,
+            "App_Usage_Hours": 0.1993,
+            "Total_Purchases": 0.0765,
+            "Total_Spend": 0.1611,
+            "Average_Order_Value": 0.1469,
+            "Discount_Usage_Pct": 0.1686,
+            "CSAT_Score": 0.1294
+        },
+        "test_accuracy": 0.8107
+    },
+    "customer_segmentation": {
+        "num_clusters": 3,
+        "cluster_profiles": {
+            "0": {
+                "Total_Purchases": 7.09,
+                "Total_Spend": 402.08,
+                "App_Usage_Hours": 22.93,
+                "CSAT_Score": 7.54,
+                "Churn_Flag": 0.12
+            },
+            "1": {
+                "Total_Purchases": 4.66,
+                "Total_Spend": 248.46,
+                "App_Usage_Hours": 10.58,
+                "CSAT_Score": 7.46,
+                "Churn_Flag": 0.21
+            },
+            "2": {
+                "Total_Purchases": 13.98,
+                "Total_Spend": 746.94,
+                "App_Usage_Hours": 15.86,
+                "CSAT_Score": 7.4,
+                "Churn_Flag": 0.19
+            }
+        }
+    }
+}

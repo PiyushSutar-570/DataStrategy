@@ -1,0 +1,1501 @@
+Customer_ID,Age,Gender,Region,Membership_Tier,A_B_Test_Group,App_Usage_Hours,Total_Purchases,Total_Spend,Average_Order_Value,Discount_Usage_Pct,Converted,CSAT_Score,Churn_Flag
+CUST-1000,56,Female,Latin America,Platinum,Variant_New_Checkout,27.8,8,396.78,49.6,35.2,1,8,0
+CUST-1001,46,Female,Europe,Basic,Control,8.8,1,56.22,56.22,17.2,0,6,0
+CUST-1002,32,Male,Asia-Pacific,Silver,Variant_New_Checkout,14.0,2,191.44,95.72,42.7,0,7,1
+CUST-1003,60,Male,Europe,Basic,Variant_New_Checkout,15.4,5,152.46,30.49,10.4,0,9,0
+CUST-1004,25,Female,North America,Gold,Variant_New_Checkout,15.6,16,985.34,61.58,20.2,1,8,0
+CUST-1005,38,Female,North America,Basic,Control,11.6,5,346.36,69.27,43.5,1,5,0
+CUST-1006,56,Female,North America,Basic,Variant_New_Checkout,9.7,3,211.05,70.35,5.5,1,5,0
+CUST-1007,36,Male,Asia-Pacific,Gold,Variant_New_Checkout,33.2,6,435.16,72.53,22.0,1,10,1
+CUST-1008,40,Female,North America,Basic,Control,0.5,4,135.75,33.94,28.4,1,5,0
+CUST-1009,28,Male,Europe,Silver,Control,9.9,21,562.28,26.78,23.4,0,8,0
+CUST-1010,28,Male,Europe,Silver,Control,15.8,4,185.51,46.38,49.5,1,9,0
+CUST-1011,41,Female,Europe,Basic,Variant_New_Checkout,7.2,6,177.05,29.51,23.6,1,8,0
+CUST-1012,53,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.4,1,248.13,248.13,53.5,1,7,1
+CUST-1013,57,Female,Latin America,Silver,Variant_New_Checkout,12.7,2,160.97,80.48,34.2,0,6,1
+CUST-1014,41,Male,Europe,Basic,Variant_New_Checkout,12.4,5,204.55,40.91,14.7,0,6,0
+CUST-1015,20,Male,Asia-Pacific,Silver,Variant_New_Checkout,8.1,3,220.92,73.64,34.5,0,8,0
+CUST-1016,39,Female,Asia-Pacific,Gold,Control,18.3,5,503.05,100.61,23.8,1,9,0
+CUST-1017,19,Female,Europe,Gold,Control,20.0,16,778.35,48.65,41.3,1,7,1
+CUST-1018,41,Female,Latin America,Basic,Control,10.0,5,209.63,41.93,47.7,1,6,0
+CUST-1019,61,Female,North America,Basic,Control,10.1,7,229.22,32.75,45.3,0,8,1
+CUST-1020,47,Female,North America,Basic,Control,13.4,6,309.57,51.6,34.0,1,6,0
+CUST-1021,55,Female,Asia-Pacific,Basic,Variant_New_Checkout,4.2,2,98.75,49.38,21.7,1,8,1
+CUST-1022,19,Female,Europe,Silver,Control,13.5,3,207.08,69.03,28.7,1,7,1
+CUST-1023,38,Male,Asia-Pacific,Silver,Control,7.7,10,436.77,43.68,12.6,1,7,0
+CUST-1024,50,Female,Asia-Pacific,Basic,Control,12.0,10,396.88,39.69,62.1,1,7,1
+CUST-1025,29,Male,North America,Basic,Control,6.9,5,309.84,61.97,22.3,1,10,0
+CUST-1026,39,Non-Binary,Asia-Pacific,Basic,Variant_New_Checkout,1.7,11,525.68,47.79,36.3,1,9,0
+CUST-1027,61,Female,Europe,Silver,Variant_New_Checkout,16.3,4,219.97,54.99,7.3,1,9,0
+CUST-1028,42,Male,Europe,Basic,Variant_New_Checkout,8.7,8,421.34,52.67,31.3,1,6,0
+CUST-1029,66,Female,Europe,Silver,Control,14.5,2,281.69,140.84,7.2,0,9,0
+CUST-1030,44,Female,Latin America,Basic,Variant_New_Checkout,14.2,2,91.01,45.5,58.7,1,9,0
+CUST-1031,59,Male,North America,Gold,Variant_New_Checkout,19.4,8,513.51,64.19,21.8,0,6,0
+CUST-1032,45,Female,Europe,Gold,Variant_New_Checkout,18.3,6,345.19,57.53,37.4,1,9,0
+CUST-1033,33,Female,Europe,Basic,Control,9.4,9,600.49,66.72,36.4,1,6,0
+CUST-1034,32,Male,Asia-Pacific,Basic,Variant_New_Checkout,5.9,6,279.71,46.62,10.3,1,5,0
+CUST-1035,64,Female,Europe,Silver,Variant_New_Checkout,12.0,4,247.34,61.84,20.0,0,8,0
+CUST-1036,61,Male,North America,Basic,Variant_New_Checkout,15.9,8,247.84,30.98,21.1,1,9,0
+CUST-1037,20,Female,North America,Silver,Variant_New_Checkout,11.3,7,239.2,34.17,4.4,1,8,1
+CUST-1038,54,Non-Binary,North America,Gold,Control,16.4,3,175.87,58.62,37.1,1,7,0
+CUST-1039,24,Female,Asia-Pacific,Silver,Variant_New_Checkout,18.4,7,331.71,47.39,5.8,1,7,0
+CUST-1040,38,Male,North America,Gold,Control,8.4,4,224.47,56.12,40.5,1,10,0
+CUST-1041,26,Female,North America,Basic,Variant_New_Checkout,11.6,8,383.9,47.99,33.7,1,6,0
+CUST-1042,56,Female,Latin America,Basic,Control,4.5,8,605.21,75.65,47.4,1,9,0
+CUST-1043,35,Male,North America,Gold,Control,19.6,8,301.02,37.63,3.4,1,7,0
+CUST-1044,21,Female,Latin America,Basic,Control,9.5,10,476.71,47.67,57.9,0,6,0
+CUST-1045,42,Male,Europe,Silver,Variant_New_Checkout,15.6,1,119.43,119.43,2.2,1,8,0
+CUST-1046,31,Female,Asia-Pacific,Basic,Control,6.4,8,362.71,45.34,37.2,1,5,1
+CUST-1047,67,Male,North America,Basic,Variant_New_Checkout,7.9,11,266.39,24.22,7.2,0,7,0
+CUST-1048,26,Male,North America,Platinum,Variant_New_Checkout,29.3,10,733.08,73.31,23.6,1,8,0
+CUST-1049,43,Male,Asia-Pacific,Basic,Control,8.0,14,403.66,28.83,7.2,1,5,0
+CUST-1050,19,Female,Asia-Pacific,Platinum,Control,30.0,13,644.74,49.6,19.1,1,8,0
+CUST-1051,37,Male,Asia-Pacific,Platinum,Control,25.7,5,187.15,37.43,35.3,0,6,0
+CUST-1052,45,Female,North America,Gold,Variant_New_Checkout,14.7,15,589.02,39.27,32.0,1,6,0
+CUST-1053,64,Male,Asia-Pacific,Silver,Variant_New_Checkout,11.6,9,395.45,43.94,20.7,0,6,1
+CUST-1054,24,Male,Asia-Pacific,Silver,Control,13.0,6,234.35,39.06,48.9,1,10,0
+CUST-1055,61,Female,Europe,Gold,Control,16.0,7,345.62,49.37,7.8,1,4,0
+CUST-1056,25,Female,Asia-Pacific,Basic,Variant_New_Checkout,11.9,4,359.25,89.81,6.7,0,8,0
+CUST-1057,64,Male,Asia-Pacific,Silver,Variant_New_Checkout,11.4,6,353.01,58.84,7.4,0,7,0
+CUST-1058,52,Female,Europe,Silver,Variant_New_Checkout,10.5,4,236.79,59.2,23.2,1,7,0
+CUST-1059,31,Female,North America,Silver,Variant_New_Checkout,16.9,9,346.19,38.47,5.5,0,9,0
+CUST-1060,34,Female,Europe,Silver,Control,11.1,2,139.86,69.93,27.7,1,8,0
+CUST-1061,53,Male,North America,Basic,Control,7.9,2,127.12,63.56,22.9,0,6,0
+CUST-1062,67,Male,Europe,Silver,Control,2.2,3,282.3,94.1,18.5,0,5,1
+CUST-1063,57,Female,Europe,Gold,Control,11.3,8,364.39,45.55,7.9,1,8,0
+CUST-1064,21,Male,North America,Basic,Control,6.9,2,236.85,118.42,43.4,1,8,0
+CUST-1065,19,Female,North America,Platinum,Control,19.7,10,517.12,51.71,25.4,1,7,1
+CUST-1066,23,Female,North America,Silver,Control,9.8,2,119.0,59.5,23.5,1,8,0
+CUST-1067,59,Female,Asia-Pacific,Gold,Variant_New_Checkout,22.9,16,904.54,56.53,17.0,1,7,0
+CUST-1068,21,Female,Latin America,Silver,Variant_New_Checkout,9.6,8,574.73,71.84,28.7,0,7,0
+CUST-1069,46,Non-Binary,North America,Gold,Variant_New_Checkout,13.2,9,511.45,56.83,56.3,1,8,0
+CUST-1070,35,Male,Latin America,Basic,Variant_New_Checkout,10.1,4,173.21,43.3,13.4,1,9,0
+CUST-1071,43,Female,Europe,Gold,Control,10.9,8,654.65,81.83,14.0,0,8,0
+CUST-1072,61,Male,North America,Basic,Variant_New_Checkout,14.6,7,380.08,54.3,9.5,1,9,0
+CUST-1073,51,Male,North America,Gold,Control,21.9,19,790.63,41.61,29.2,1,6,1
+CUST-1074,27,Female,Europe,Platinum,Variant_New_Checkout,14.7,10,783.12,78.31,39.5,1,10,0
+CUST-1075,53,Female,Asia-Pacific,Basic,Control,12.8,7,174.26,24.89,11.1,0,7,0
+CUST-1076,31,Non-Binary,Asia-Pacific,Basic,Variant_New_Checkout,13.5,2,309.01,154.5,23.4,1,8,1
+CUST-1077,48,Female,North America,Gold,Control,10.7,6,85.49,14.25,21.1,0,5,0
+CUST-1078,65,Male,North America,Basic,Control,5.9,4,165.54,41.38,32.6,1,7,1
+CUST-1079,32,Male,Europe,Gold,Variant_New_Checkout,13.8,23,996.28,43.32,33.8,1,9,0
+CUST-1080,25,Female,North America,Basic,Control,5.1,2,90.22,45.11,18.7,0,8,0
+CUST-1081,31,Male,North America,Basic,Variant_New_Checkout,7.1,2,94.91,47.46,8.3,1,10,0
+CUST-1082,40,Male,North America,Platinum,Variant_New_Checkout,20.8,10,492.01,49.2,9.2,1,9,0
+CUST-1083,57,Male,Asia-Pacific,Silver,Variant_New_Checkout,15.1,7,284.08,40.58,14.9,1,8,0
+CUST-1084,38,Male,Latin America,Gold,Variant_New_Checkout,17.7,11,665.96,60.54,29.4,0,7,0
+CUST-1085,33,Male,Europe,Basic,Variant_New_Checkout,9.1,5,284.48,56.9,11.1,1,7,0
+CUST-1086,62,Male,Latin America,Silver,Control,10.9,3,285.86,95.29,29.8,1,9,0
+CUST-1087,35,Male,North America,Silver,Variant_New_Checkout,7.3,2,122.89,61.44,28.7,1,9,0
+CUST-1088,64,Male,Europe,Silver,Variant_New_Checkout,15.5,7,320.41,45.77,67.2,0,6,0
+CUST-1089,41,Non-Binary,North America,Silver,Variant_New_Checkout,15.4,6,220.21,36.7,52.1,1,9,1
+CUST-1090,43,Male,Europe,Silver,Control,10.3,6,435.84,72.64,78.8,0,8,1
+CUST-1091,42,Male,Latin America,Silver,Variant_New_Checkout,8.2,11,317.96,28.91,33.0,1,6,1
+CUST-1092,62,Female,Europe,Basic,Variant_New_Checkout,14.6,3,78.15,26.05,32.0,1,9,0
+CUST-1093,58,Male,North America,Gold,Variant_New_Checkout,18.7,15,788.3,52.55,11.6,1,6,0
+CUST-1094,46,Female,Europe,Basic,Control,10.9,3,100.72,33.57,51.8,0,4,0
+CUST-1095,32,Female,North America,Silver,Control,14.9,4,310.19,77.55,15.9,0,7,0
+CUST-1096,62,Male,Asia-Pacific,Basic,Control,5.8,3,194.46,64.82,13.6,1,8,0
+CUST-1097,18,Male,Europe,Silver,Variant_New_Checkout,19.4,8,422.59,52.82,53.2,1,8,0
+CUST-1098,42,Female,Europe,Gold,Variant_New_Checkout,15.0,5,294.46,58.89,40.7,1,10,0
+CUST-1099,24,Female,Europe,Basic,Control,12.2,3,130.72,43.57,11.7,1,8,0
+CUST-1100,26,Male,Europe,Basic,Control,14.3,3,186.93,62.31,14.0,0,7,0
+CUST-1101,41,Female,North America,Basic,Control,9.9,8,458.62,57.33,16.3,1,8,0
+CUST-1102,18,Male,Europe,Silver,Control,7.9,2,125.86,62.93,25.5,1,7,0
+CUST-1103,61,Non-Binary,North America,Gold,Variant_New_Checkout,2.9,3,425.08,141.69,37.2,1,9,0
+CUST-1104,25,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.5,3,305.45,101.82,43.8,1,8,1
+CUST-1105,41,Female,Asia-Pacific,Gold,Control,18.7,6,417.87,69.64,26.1,1,8,0
+CUST-1106,28,Female,Asia-Pacific,Basic,Variant_New_Checkout,7.7,5,180.15,36.03,21.4,1,7,0
+CUST-1107,34,Female,Europe,Silver,Control,13.5,4,226.56,56.64,37.1,0,5,0
+CUST-1108,25,Female,Europe,Platinum,Variant_New_Checkout,27.4,12,524.3,43.69,25.5,1,7,1
+CUST-1109,52,Male,North America,Basic,Control,12.8,4,210.04,52.51,12.7,0,8,0
+CUST-1110,52,Male,Asia-Pacific,Silver,Control,12.0,4,58.49,14.62,52.8,0,7,0
+CUST-1111,50,Male,North America,Basic,Control,9.5,4,293.37,73.34,22.6,1,8,0
+CUST-1112,22,Male,Europe,Basic,Variant_New_Checkout,9.0,4,300.85,75.21,13.9,1,7,0
+CUST-1113,59,Female,North America,Basic,Variant_New_Checkout,9.7,7,382.64,54.66,19.2,1,8,0
+CUST-1114,56,Male,North America,Basic,Variant_New_Checkout,8.0,5,102.84,20.57,39.5,1,6,0
+CUST-1115,58,Male,Europe,Silver,Control,10.7,6,337.75,56.29,12.1,1,7,0
+CUST-1116,45,Non-Binary,North America,Silver,Control,11.0,7,265.09,37.87,52.3,0,6,0
+CUST-1117,24,Female,Asia-Pacific,Silver,Control,13.6,3,314.09,104.7,33.6,1,5,0
+CUST-1118,26,Female,North America,Basic,Variant_New_Checkout,6.9,5,221.88,44.38,39.9,1,8,0
+CUST-1119,25,Non-Binary,North America,Basic,Control,8.2,6,267.58,44.6,35.0,0,10,0
+CUST-1120,29,Male,Europe,Silver,Variant_New_Checkout,20.8,8,229.67,28.71,11.8,1,6,0
+CUST-1121,51,Male,North America,Platinum,Variant_New_Checkout,31.2,10,587.65,58.76,35.4,1,8,0
+CUST-1122,50,Female,North America,Basic,Variant_New_Checkout,6.5,1,86.09,86.09,9.1,1,9,0
+CUST-1123,65,Female,Asia-Pacific,Gold,Control,22.3,5,303.42,60.68,34.1,0,10,0
+CUST-1124,40,Male,North America,Silver,Control,15.7,2,235.15,117.58,20.0,1,6,0
+CUST-1125,41,Female,Asia-Pacific,Silver,Control,12.5,2,37.99,19.0,20.4,0,6,0
+CUST-1126,54,Male,North America,Silver,Variant_New_Checkout,9.9,9,345.69,38.41,12.0,1,6,0
+CUST-1127,52,Male,North America,Basic,Variant_New_Checkout,7.0,6,313.25,52.21,21.8,1,10,0
+CUST-1128,61,Female,Asia-Pacific,Basic,Control,10.3,4,167.54,41.88,32.9,1,6,0
+CUST-1129,57,Female,North America,Silver,Control,9.3,9,433.64,48.18,9.1,0,7,0
+CUST-1130,39,Female,North America,Basic,Variant_New_Checkout,13.1,8,451.92,56.49,14.8,0,5,0
+CUST-1131,44,Male,North America,Platinum,Variant_New_Checkout,35.0,30,1491.14,49.7,28.3,1,9,0
+CUST-1132,52,Female,North America,Silver,Control,12.8,1,119.43,119.43,2.7,0,9,0
+CUST-1133,18,Male,Asia-Pacific,Basic,Variant_New_Checkout,13.2,6,312.99,52.16,5.1,1,9,0
+CUST-1134,52,Male,North America,Gold,Control,14.9,3,411.79,137.26,13.0,1,5,0
+CUST-1135,54,Female,Asia-Pacific,Basic,Control,7.3,2,206.13,103.06,28.4,1,8,0
+CUST-1136,64,Female,Asia-Pacific,Silver,Variant_New_Checkout,17.7,2,160.42,80.21,32.0,0,5,1
+CUST-1137,31,Female,Europe,Silver,Variant_New_Checkout,19.8,3,306.78,102.26,34.8,1,8,0
+CUST-1138,20,Female,Latin America,Platinum,Variant_New_Checkout,39.7,4,121.21,30.3,31.4,1,8,0
+CUST-1139,18,Female,North America,Gold,Control,19.2,4,336.85,84.21,33.7,1,8,0
+CUST-1140,22,Female,Latin America,Silver,Variant_New_Checkout,16.7,2,119.59,59.8,15.7,0,9,1
+CUST-1141,43,Male,North America,Silver,Control,14.3,5,206.77,41.35,26.7,0,7,0
+CUST-1142,31,Male,Europe,Platinum,Control,35.2,12,915.38,76.28,30.6,1,4,0
+CUST-1143,56,Male,Europe,Basic,Variant_New_Checkout,11.0,3,175.74,58.58,37.1,0,9,0
+CUST-1144,44,Male,North America,Basic,Control,12.2,1,48.7,48.7,4.3,1,7,0
+CUST-1145,26,Female,Europe,Basic,Variant_New_Checkout,6.0,5,267.77,53.55,23.2,1,6,1
+CUST-1146,32,Female,Asia-Pacific,Basic,Variant_New_Checkout,8.9,4,174.29,43.57,35.3,1,5,0
+CUST-1147,32,Male,North America,Silver,Control,16.5,6,795.4,132.57,13.6,1,10,0
+CUST-1148,43,Male,North America,Silver,Control,16.1,4,91.34,22.84,16.6,1,9,0
+CUST-1149,59,Female,Asia-Pacific,Silver,Control,16.8,17,1132.48,66.62,11.3,0,8,0
+CUST-1150,30,Male,Europe,Basic,Control,10.0,3,146.71,48.9,54.3,0,6,1
+CUST-1151,49,Female,Latin America,Gold,Variant_New_Checkout,13.5,2,276.4,138.2,13.4,1,4,1
+CUST-1152,56,Female,Asia-Pacific,Basic,Variant_New_Checkout,9.4,3,121.94,40.65,17.5,0,9,0
+CUST-1153,66,Female,Latin America,Silver,Control,13.2,5,357.11,71.42,20.1,0,8,0
+CUST-1154,49,Female,Asia-Pacific,Silver,Control,14.0,2,48.99,24.5,10.7,1,7,1
+CUST-1155,21,Female,North America,Basic,Variant_New_Checkout,6.5,6,287.36,47.89,29.7,1,9,0
+CUST-1156,47,Male,North America,Basic,Variant_New_Checkout,8.7,6,406.14,67.69,23.0,1,9,1
+CUST-1157,54,Female,Asia-Pacific,Basic,Control,9.3,1,86.39,86.39,62.6,0,7,0
+CUST-1158,40,Female,Europe,Gold,Control,4.4,12,895.85,74.65,15.9,1,7,0
+CUST-1159,56,Male,North America,Platinum,Variant_New_Checkout,30.7,12,342.11,28.51,7.0,1,8,0
+CUST-1160,62,Female,North America,Silver,Control,13.7,6,233.71,38.95,52.7,0,8,0
+CUST-1161,32,Female,Latin America,Basic,Control,10.4,2,59.48,29.74,23.1,0,6,0
+CUST-1162,60,Female,Europe,Silver,Variant_New_Checkout,10.7,6,293.1,48.85,20.3,1,8,0
+CUST-1163,46,Female,Europe,Gold,Variant_New_Checkout,20.7,6,538.46,89.74,25.4,1,6,0
+CUST-1164,53,Female,Europe,Gold,Variant_New_Checkout,12.5,3,200.93,66.98,41.4,1,10,1
+CUST-1165,30,Female,North America,Basic,Variant_New_Checkout,7.4,6,279.37,46.56,59.0,0,9,1
+CUST-1166,49,Female,North America,Basic,Variant_New_Checkout,11.6,4,306.7,76.68,7.7,1,7,1
+CUST-1167,24,Female,North America,Gold,Control,19.3,8,571.83,71.48,64.4,1,7,0
+CUST-1168,39,Female,North America,Basic,Control,5.5,3,204.61,68.2,8.7,1,6,0
+CUST-1169,45,Female,Asia-Pacific,Basic,Control,14.6,9,409.97,45.55,51.1,1,9,0
+CUST-1170,19,Female,Europe,Basic,Control,7.2,2,85.22,42.61,10.8,1,10,0
+CUST-1171,59,Male,Asia-Pacific,Silver,Variant_New_Checkout,12.4,8,386.74,48.34,28.0,0,9,1
+CUST-1172,62,Female,Asia-Pacific,Gold,Variant_New_Checkout,27.3,5,266.36,53.27,15.0,0,10,0
+CUST-1173,23,Female,North America,Platinum,Variant_New_Checkout,7.5,10,660.92,66.09,23.2,1,8,0
+CUST-1174,45,Male,Europe,Silver,Variant_New_Checkout,5.6,4,312.84,78.21,41.8,1,9,1
+CUST-1175,45,Female,Europe,Silver,Control,14.9,1,166.13,166.13,41.2,1,9,0
+CUST-1176,61,Male,Asia-Pacific,Basic,Control,1.7,3,195.36,65.12,33.0,1,7,0
+CUST-1177,61,Male,North America,Silver,Variant_New_Checkout,4.1,6,205.53,34.26,13.5,1,8,1
+CUST-1178,37,Female,Europe,Basic,Variant_New_Checkout,13.4,10,565.81,56.58,33.7,1,9,0
+CUST-1179,47,Male,Europe,Silver,Variant_New_Checkout,11.2,6,458.56,76.43,15.3,1,9,0
+CUST-1180,28,Female,North America,Basic,Variant_New_Checkout,16.6,15,584.0,38.93,27.7,1,7,0
+CUST-1181,45,Female,North America,Basic,Variant_New_Checkout,6.3,3,172.47,57.49,36.1,0,5,1
+CUST-1182,42,Female,Europe,Basic,Variant_New_Checkout,8.6,1,112.07,112.07,11.3,1,8,0
+CUST-1183,56,Male,Asia-Pacific,Basic,Control,11.3,1,253.65,253.65,13.6,0,4,0
+CUST-1184,50,Male,North America,Basic,Variant_New_Checkout,11.1,7,300.16,42.88,12.7,0,6,0
+CUST-1185,18,Female,Europe,Basic,Variant_New_Checkout,8.8,15,337.54,22.5,24.2,0,6,0
+CUST-1186,44,Non-Binary,North America,Platinum,Control,18.8,15,784.55,52.3,32.7,0,6,0
+CUST-1187,30,Female,Asia-Pacific,Silver,Variant_New_Checkout,14.0,9,755.59,83.95,19.1,1,9,1
+CUST-1188,58,Male,North America,Silver,Control,18.9,7,421.29,60.18,56.6,1,9,0
+CUST-1189,20,Female,Asia-Pacific,Gold,Variant_New_Checkout,21.7,4,216.52,54.13,9.8,0,9,0
+CUST-1190,56,Female,North America,Platinum,Control,18.9,4,185.04,46.26,31.5,0,8,0
+CUST-1191,23,Female,North America,Silver,Variant_New_Checkout,8.7,16,797.71,49.86,56.9,0,9,1
+CUST-1192,25,Male,North America,Gold,Control,13.3,6,370.21,61.7,4.1,1,3,1
+CUST-1193,44,Female,North America,Basic,Variant_New_Checkout,5.5,9,450.93,50.1,11.1,1,8,1
+CUST-1194,26,Female,Europe,Basic,Control,10.1,2,116.87,58.44,7.6,1,5,0
+CUST-1195,54,Non-Binary,North America,Silver,Control,16.5,6,413.47,68.91,19.0,0,8,0
+CUST-1196,50,Male,Asia-Pacific,Silver,Control,12.7,1,156.53,156.53,8.5,1,4,1
+CUST-1197,59,Female,North America,Silver,Variant_New_Checkout,20.4,3,52.1,17.37,12.2,1,8,0
+CUST-1198,61,Female,North America,Basic,Control,15.3,4,388.27,97.07,51.0,1,8,0
+CUST-1199,41,Male,North America,Basic,Control,10.6,4,87.55,21.89,34.2,1,6,0
+CUST-1200,32,Female,North America,Silver,Variant_New_Checkout,16.0,5,144.32,28.86,40.2,1,9,0
+CUST-1201,49,Female,North America,Basic,Variant_New_Checkout,6.7,3,224.08,74.69,18.0,1,9,0
+CUST-1202,49,Male,Europe,Silver,Variant_New_Checkout,11.4,3,313.53,104.51,42.3,1,8,0
+CUST-1203,41,Male,Europe,Silver,Control,18.5,3,328.1,109.37,9.9,1,8,0
+CUST-1204,58,Female,Europe,Gold,Variant_New_Checkout,13.9,7,491.81,70.26,20.7,0,7,0
+CUST-1205,66,Male,Europe,Gold,Control,25.8,6,209.49,34.92,16.3,0,7,0
+CUST-1206,66,Female,Europe,Gold,Control,23.7,1,144.76,144.76,44.2,0,7,0
+CUST-1207,29,Male,North America,Silver,Variant_New_Checkout,16.2,14,596.25,42.59,24.8,1,8,0
+CUST-1208,56,Female,Europe,Gold,Variant_New_Checkout,10.5,14,652.12,46.58,21.8,1,7,0
+CUST-1209,19,Male,Latin America,Silver,Variant_New_Checkout,11.6,3,164.73,54.91,20.1,0,6,0
+CUST-1210,20,Female,Europe,Basic,Control,11.7,2,62.14,31.07,41.3,1,7,0
+CUST-1211,66,Non-Binary,Europe,Basic,Control,6.4,4,160.08,40.02,21.4,1,7,1
+CUST-1212,54,Non-Binary,North America,Basic,Control,9.0,2,78.33,39.16,7.8,1,6,1
+CUST-1213,66,Female,Asia-Pacific,Silver,Variant_New_Checkout,16.2,7,236.05,33.72,61.6,1,9,0
+CUST-1214,34,Male,Asia-Pacific,Silver,Control,10.5,9,432.98,48.11,30.5,1,5,0
+CUST-1215,66,Female,Europe,Gold,Control,12.4,7,332.68,47.53,4.8,0,7,0
+CUST-1216,19,Male,Latin America,Basic,Control,3.8,5,391.85,78.37,25.2,0,9,1
+CUST-1217,19,Male,North America,Basic,Variant_New_Checkout,8.4,2,191.13,95.56,5.6,1,9,0
+CUST-1218,45,Male,North America,Platinum,Control,30.2,20,941.81,47.09,15.8,1,9,0
+CUST-1219,40,Female,Asia-Pacific,Basic,Variant_New_Checkout,6.8,4,170.22,42.56,49.0,0,7,0
+CUST-1220,54,Female,Asia-Pacific,Silver,Control,13.0,1,33.91,33.91,34.5,1,8,0
+CUST-1221,49,Female,North America,Silver,Variant_New_Checkout,12.0,8,388.56,48.57,15.9,1,6,0
+CUST-1222,50,Male,North America,Silver,Control,10.1,3,60.31,20.1,61.2,0,7,1
+CUST-1223,18,Male,North America,Basic,Variant_New_Checkout,12.3,3,158.36,52.79,7.1,0,8,0
+CUST-1224,36,Non-Binary,North America,Basic,Variant_New_Checkout,14.9,2,45.14,22.57,20.2,1,7,0
+CUST-1225,19,Male,Asia-Pacific,Basic,Control,12.8,8,200.8,25.1,29.5,0,7,0
+CUST-1226,61,Male,Europe,Silver,Variant_New_Checkout,10.0,5,327.21,65.44,45.6,1,7,0
+CUST-1227,43,Male,North America,Silver,Control,21.6,9,379.01,42.11,28.8,0,6,0
+CUST-1228,49,Female,North America,Basic,Variant_New_Checkout,12.8,3,101.46,33.82,19.6,1,9,0
+CUST-1229,23,Female,North America,Silver,Variant_New_Checkout,11.0,4,181.74,45.44,6.9,1,8,0
+CUST-1230,49,Male,North America,Gold,Control,12.8,6,297.71,49.62,32.7,1,8,0
+CUST-1231,21,Male,Europe,Basic,Control,13.2,5,283.36,56.67,16.8,1,7,1
+CUST-1232,28,Female,Latin America,Silver,Control,13.7,8,317.73,39.72,57.0,1,7,0
+CUST-1233,34,Female,Asia-Pacific,Silver,Control,9.3,5,138.32,27.66,19.4,0,7,0
+CUST-1234,55,Male,North America,Basic,Control,9.1,5,371.63,74.33,4.6,1,7,0
+CUST-1235,41,Female,Asia-Pacific,Basic,Control,8.3,2,64.26,32.13,15.9,0,9,0
+CUST-1236,22,Male,Asia-Pacific,Silver,Control,9.4,8,335.1,41.89,12.0,1,8,0
+CUST-1237,51,Male,Asia-Pacific,Gold,Variant_New_Checkout,23.1,4,240.04,60.01,20.7,0,8,0
+CUST-1238,23,Female,Europe,Gold,Control,21.8,12,587.57,48.96,17.1,0,7,0
+CUST-1239,39,Male,North America,Silver,Control,16.6,2,184.19,92.1,25.0,1,7,0
+CUST-1240,28,Female,North America,Gold,Variant_New_Checkout,22.0,30,1553.33,51.78,13.6,1,8,0
+CUST-1241,65,Male,North America,Basic,Control,6.7,3,251.8,83.93,17.0,1,9,0
+CUST-1242,33,Male,North America,Silver,Control,10.4,14,599.87,42.85,48.6,1,5,1
+CUST-1243,50,Non-Binary,North America,Silver,Control,19.3,8,733.64,91.7,43.9,1,8,0
+CUST-1244,26,Male,Europe,Basic,Variant_New_Checkout,9.9,5,204.37,40.87,36.2,1,9,0
+CUST-1245,23,Female,Asia-Pacific,Gold,Variant_New_Checkout,8.8,10,384.13,38.41,21.5,1,6,0
+CUST-1246,33,Male,Europe,Silver,Control,13.9,5,566.7,113.34,28.5,0,7,0
+CUST-1247,46,Male,North America,Basic,Variant_New_Checkout,11.7,5,245.64,49.13,11.5,1,6,0
+CUST-1248,20,Male,Latin America,Platinum,Variant_New_Checkout,28.2,5,295.36,59.07,13.0,0,8,0
+CUST-1249,37,Female,Latin America,Basic,Variant_New_Checkout,6.6,4,114.38,28.6,17.3,0,7,0
+CUST-1250,53,Male,Asia-Pacific,Basic,Variant_New_Checkout,15.6,6,256.66,42.78,54.9,1,8,0
+CUST-1251,36,Female,Latin America,Basic,Variant_New_Checkout,4.8,4,178.6,44.65,11.3,1,7,1
+CUST-1252,43,Male,Europe,Gold,Control,17.9,16,574.19,35.89,31.9,1,8,0
+CUST-1253,20,Non-Binary,Latin America,Gold,Control,27.3,6,272.8,45.47,43.5,0,8,1
+CUST-1254,36,Male,North America,Basic,Control,11.5,12,529.61,44.13,64.7,1,8,1
+CUST-1255,37,Female,North America,Silver,Variant_New_Checkout,16.6,2,195.09,97.54,59.7,1,8,0
+CUST-1256,49,Female,North America,Basic,Variant_New_Checkout,6.2,1,115.79,115.79,43.5,1,9,0
+CUST-1257,24,Female,North America,Gold,Variant_New_Checkout,19.3,6,370.68,61.78,23.8,1,7,0
+CUST-1258,58,Female,North America,Silver,Variant_New_Checkout,12.8,7,459.28,65.61,25.5,1,10,0
+CUST-1259,50,Female,Europe,Silver,Control,8.1,6,452.24,75.37,8.9,0,5,0
+CUST-1260,57,Female,Asia-Pacific,Platinum,Variant_New_Checkout,30.9,12,576.0,48.0,8.0,1,5,0
+CUST-1261,56,Male,Europe,Basic,Variant_New_Checkout,7.0,7,576.35,82.34,21.8,1,5,0
+CUST-1262,35,Male,North America,Basic,Variant_New_Checkout,7.4,5,246.41,49.28,40.6,0,5,0
+CUST-1263,57,Female,Asia-Pacific,Silver,Variant_New_Checkout,14.8,7,279.17,39.88,41.0,1,9,0
+CUST-1264,18,Female,Europe,Platinum,Variant_New_Checkout,22.9,7,667.22,95.32,44.3,1,9,0
+CUST-1265,28,Female,North America,Basic,Control,10.1,1,91.71,91.71,37.0,1,9,1
+CUST-1266,45,Female,Europe,Basic,Variant_New_Checkout,8.9,4,403.13,100.78,21.2,1,6,0
+CUST-1267,42,Male,North America,Basic,Control,14.1,7,414.15,59.16,24.1,1,8,1
+CUST-1268,67,Male,North America,Silver,Variant_New_Checkout,9.0,4,334.03,83.51,27.6,1,8,0
+CUST-1269,40,Female,Latin America,Basic,Variant_New_Checkout,8.1,3,157.28,52.43,8.7,1,8,1
+CUST-1270,48,Male,North America,Silver,Control,15.0,4,318.18,79.54,9.2,0,8,0
+CUST-1271,47,Male,Europe,Platinum,Variant_New_Checkout,16.1,22,1359.74,61.81,41.4,1,7,0
+CUST-1272,59,Female,Asia-Pacific,Silver,Control,8.5,9,385.19,42.8,14.1,1,10,0
+CUST-1273,52,Male,Asia-Pacific,Basic,Control,10.0,10,327.73,32.77,14.3,0,9,0
+CUST-1274,24,Female,North America,Silver,Control,16.7,3,487.31,162.44,34.6,1,6,1
+CUST-1275,33,Male,North America,Basic,Variant_New_Checkout,12.8,3,125.17,41.72,8.6,1,6,0
+CUST-1276,43,Female,North America,Gold,Variant_New_Checkout,17.8,7,366.17,52.31,19.5,1,8,0
+CUST-1277,65,Male,Europe,Silver,Variant_New_Checkout,10.1,5,460.91,92.18,43.5,0,8,0
+CUST-1278,66,Male,Europe,Basic,Control,10.5,1,71.35,71.35,32.5,0,9,0
+CUST-1279,19,Male,North America,Silver,Variant_New_Checkout,15.4,12,569.12,47.43,6.6,0,6,0
+CUST-1280,18,Male,Latin America,Silver,Variant_New_Checkout,14.1,1,147.12,147.12,24.8,1,8,0
+CUST-1281,65,Male,Europe,Silver,Control,18.3,4,197.43,49.36,5.2,0,5,0
+CUST-1282,29,Male,North America,Basic,Control,6.4,9,391.62,43.51,7.2,1,8,0
+CUST-1283,22,Female,Europe,Gold,Control,13.3,5,341.31,68.26,4.4,1,7,1
+CUST-1284,54,Male,Europe,Platinum,Variant_New_Checkout,32.8,9,604.67,67.19,33.7,1,10,0
+CUST-1285,49,Female,North America,Silver,Variant_New_Checkout,6.6,9,806.89,89.65,13.7,1,5,0
+CUST-1286,26,Female,North America,Platinum,Variant_New_Checkout,19.7,21,934.14,44.48,15.3,1,10,0
+CUST-1287,58,Female,Asia-Pacific,Basic,Control,7.3,2,196.26,98.13,15.1,1,5,0
+CUST-1288,52,Male,Europe,Silver,Variant_New_Checkout,6.2,9,526.96,58.55,11.0,0,6,0
+CUST-1289,36,Female,Europe,Silver,Control,12.2,5,268.9,53.78,17.8,0,5,0
+CUST-1290,65,Male,Europe,Silver,Control,16.2,4,239.59,59.9,19.7,0,8,1
+CUST-1291,33,Male,North America,Silver,Variant_New_Checkout,13.6,6,310.33,51.72,64.4,1,6,1
+CUST-1292,20,Non-Binary,North America,Basic,Control,12.2,7,163.61,23.37,53.9,0,5,0
+CUST-1293,37,Male,Europe,Basic,Variant_New_Checkout,13.4,2,161.15,80.58,41.6,0,8,0
+CUST-1294,41,Female,North America,Basic,Control,8.4,4,153.16,38.29,27.7,0,8,0
+CUST-1295,50,Female,North America,Basic,Variant_New_Checkout,18.1,3,188.95,62.98,19.5,1,8,1
+CUST-1296,41,Female,Asia-Pacific,Gold,Control,15.3,3,190.07,63.36,56.6,1,7,1
+CUST-1297,28,Female,Latin America,Basic,Variant_New_Checkout,8.9,4,338.04,84.51,30.7,1,10,0
+CUST-1298,66,Male,Asia-Pacific,Basic,Control,7.3,5,323.33,64.67,28.2,1,7,0
+CUST-1299,25,Male,Asia-Pacific,Silver,Control,15.3,6,241.56,40.26,32.9,1,8,0
+CUST-1300,53,Female,North America,Silver,Variant_New_Checkout,11.7,12,867.46,72.29,50.4,1,8,0
+CUST-1301,55,Male,Latin America,Gold,Control,16.8,14,776.42,55.46,27.2,1,6,0
+CUST-1302,57,Male,North America,Silver,Variant_New_Checkout,12.1,4,425.35,106.34,8.4,0,9,0
+CUST-1303,37,Male,Latin America,Basic,Variant_New_Checkout,8.9,3,388.32,129.44,3.3,1,7,0
+CUST-1304,52,Male,Latin America,Gold,Control,18.2,3,146.8,48.93,11.9,1,7,0
+CUST-1305,65,Male,Asia-Pacific,Silver,Control,11.0,10,551.32,55.13,30.9,0,8,0
+CUST-1306,42,Male,Latin America,Basic,Variant_New_Checkout,8.3,4,174.01,43.5,15.3,1,5,1
+CUST-1307,52,Female,Europe,Silver,Variant_New_Checkout,17.6,4,752.9,188.22,36.9,1,5,0
+CUST-1308,42,Female,North America,Platinum,Variant_New_Checkout,21.7,30,2089.24,69.64,42.8,1,9,0
+CUST-1309,46,Female,Europe,Basic,Variant_New_Checkout,10.8,9,717.95,79.77,33.1,0,7,0
+CUST-1310,35,Male,Europe,Basic,Variant_New_Checkout,6.8,4,321.75,80.44,10.5,0,7,0
+CUST-1311,63,Male,North America,Basic,Control,8.2,6,329.11,54.85,13.6,0,7,0
+CUST-1312,35,Male,Europe,Basic,Variant_New_Checkout,5.7,10,372.28,37.23,59.9,0,7,0
+CUST-1313,19,Female,Latin America,Silver,Variant_New_Checkout,21.0,1,258.13,258.13,58.6,1,8,0
+CUST-1314,52,Female,North America,Silver,Control,18.9,6,392.93,65.49,59.8,0,7,0
+CUST-1315,33,Male,Asia-Pacific,Basic,Control,11.5,3,121.84,40.61,44.9,0,7,0
+CUST-1316,58,Female,Latin America,Platinum,Control,41.2,20,1325.52,66.28,58.2,0,6,0
+CUST-1317,53,Male,Latin America,Gold,Control,21.7,9,585.25,65.03,8.6,0,7,0
+CUST-1318,50,Female,Latin America,Silver,Variant_New_Checkout,12.2,10,616.01,61.6,15.7,1,9,0
+CUST-1319,21,Female,Europe,Gold,Control,19.4,9,397.09,44.12,37.5,1,6,0
+CUST-1320,50,Female,Latin America,Basic,Control,14.0,4,156.95,39.24,10.6,0,9,0
+CUST-1321,31,Female,Asia-Pacific,Silver,Control,9.2,4,114.49,28.62,26.8,0,7,0
+CUST-1322,38,Female,North America,Silver,Variant_New_Checkout,7.9,7,232.9,33.27,15.0,1,9,0
+CUST-1323,65,Male,Europe,Gold,Variant_New_Checkout,19.6,10,387.15,38.71,55.5,1,8,0
+CUST-1324,37,Female,Asia-Pacific,Gold,Control,13.9,12,595.75,49.65,26.6,0,7,1
+CUST-1325,25,Male,North America,Basic,Control,2.4,1,269.73,269.73,16.9,0,8,0
+CUST-1326,24,Female,Europe,Platinum,Variant_New_Checkout,14.1,11,655.23,59.57,58.7,1,10,0
+CUST-1327,20,Female,Europe,Basic,Variant_New_Checkout,8.6,5,364.89,72.98,14.1,1,8,1
+CUST-1328,34,Female,North America,Gold,Control,17.6,4,355.95,88.99,28.1,0,8,0
+CUST-1329,50,Male,Europe,Platinum,Control,24.6,23,798.84,34.73,47.7,0,7,0
+CUST-1330,65,Female,Asia-Pacific,Basic,Control,16.0,5,244.53,48.91,10.9,0,10,0
+CUST-1331,29,Female,Europe,Gold,Control,16.1,11,427.93,38.9,23.5,0,8,0
+CUST-1332,39,Female,North America,Basic,Variant_New_Checkout,10.5,4,159.67,39.92,9.8,1,8,0
+CUST-1333,39,Male,North America,Silver,Variant_New_Checkout,5.9,4,275.3,68.82,33.8,1,8,1
+CUST-1334,63,Male,North America,Silver,Control,12.8,3,67.94,22.65,46.0,1,9,0
+CUST-1335,47,Male,Latin America,Silver,Variant_New_Checkout,14.4,9,200.14,22.24,20.7,1,7,1
+CUST-1336,55,Male,North America,Platinum,Control,13.0,11,961.66,87.42,27.3,1,5,1
+CUST-1337,55,Female,Europe,Silver,Variant_New_Checkout,8.9,2,205.54,102.77,44.6,0,8,0
+CUST-1338,62,Male,North America,Silver,Variant_New_Checkout,15.1,4,401.95,100.49,16.9,0,10,0
+CUST-1339,25,Non-Binary,North America,Gold,Control,14.1,2,217.4,108.7,14.2,1,10,0
+CUST-1340,44,Male,Asia-Pacific,Platinum,Control,23.2,10,876.93,87.69,31.5,0,7,0
+CUST-1341,44,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.3,3,311.51,103.84,29.2,1,8,0
+CUST-1342,51,Female,North America,Platinum,Control,40.3,5,223.56,44.71,18.0,1,8,0
+CUST-1343,38,Female,Europe,Basic,Control,8.9,13,363.11,27.93,44.4,1,7,1
+CUST-1344,47,Female,North America,Gold,Variant_New_Checkout,27.5,13,803.94,61.84,28.7,0,9,0
+CUST-1345,50,Female,Europe,Basic,Variant_New_Checkout,3.3,2,174.18,87.09,39.1,1,8,0
+CUST-1346,45,Female,Europe,Basic,Control,10.1,2,181.97,90.98,42.7,1,9,0
+CUST-1347,64,Male,North America,Silver,Variant_New_Checkout,11.5,5,177.95,35.59,20.3,1,9,0
+CUST-1348,50,Non-Binary,North America,Silver,Control,10.7,10,461.73,46.17,27.1,1,8,0
+CUST-1349,22,Non-Binary,North America,Basic,Variant_New_Checkout,11.7,5,270.12,54.02,26.5,1,7,1
+CUST-1350,65,Female,Latin America,Basic,Variant_New_Checkout,8.9,10,255.93,25.59,19.3,1,10,1
+CUST-1351,36,Male,Latin America,Silver,Variant_New_Checkout,4.2,6,295.49,49.25,22.4,0,9,0
+CUST-1352,21,Female,North America,Platinum,Control,11.3,17,1095.05,64.41,45.2,1,8,0
+CUST-1353,52,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.9,11,668.22,60.75,27.0,1,7,1
+CUST-1354,66,Male,North America,Basic,Variant_New_Checkout,4.4,12,455.97,38.0,15.9,1,8,0
+CUST-1355,34,Male,North America,Silver,Control,16.2,9,469.11,52.12,8.9,0,7,0
+CUST-1356,61,Male,Asia-Pacific,Basic,Control,10.0,4,155.62,38.9,9.7,1,6,0
+CUST-1357,45,Female,Latin America,Gold,Control,16.3,9,256.64,28.52,9.1,0,7,0
+CUST-1358,47,Female,Latin America,Gold,Control,16.8,5,238.8,47.76,57.3,0,7,0
+CUST-1359,46,Female,Europe,Silver,Variant_New_Checkout,15.2,7,259.14,37.02,39.3,0,8,0
+CUST-1360,63,Male,North America,Basic,Control,5.8,6,160.91,26.82,27.2,0,5,1
+CUST-1361,23,Male,Asia-Pacific,Gold,Control,17.5,14,555.4,39.67,55.6,1,7,0
+CUST-1362,52,Male,North America,Silver,Variant_New_Checkout,8.0,3,129.52,43.17,33.7,1,7,1
+CUST-1363,58,Non-Binary,Europe,Gold,Control,18.2,8,302.21,37.78,7.3,1,7,0
+CUST-1364,54,Male,North America,Silver,Variant_New_Checkout,15.8,2,106.97,53.48,11.0,0,9,0
+CUST-1365,41,Female,Europe,Gold,Control,18.2,7,633.61,90.52,22.8,0,10,1
+CUST-1366,46,Female,North America,Silver,Variant_New_Checkout,15.6,5,276.24,55.25,20.2,0,9,1
+CUST-1367,66,Male,North America,Silver,Variant_New_Checkout,9.9,18,726.66,40.37,29.7,1,6,1
+CUST-1368,63,Female,Latin America,Platinum,Variant_New_Checkout,23.5,16,831.88,51.99,42.2,1,7,0
+CUST-1369,48,Female,North America,Silver,Control,11.9,2,64.6,32.3,17.8,1,8,0
+CUST-1370,52,Female,Europe,Silver,Variant_New_Checkout,11.6,3,146.64,48.88,72.2,1,9,0
+CUST-1371,50,Female,North America,Basic,Control,7.0,4,165.71,41.43,33.9,1,9,0
+CUST-1372,38,Male,North America,Silver,Control,11.1,13,890.6,68.51,35.6,1,7,0
+CUST-1373,49,Male,North America,Silver,Control,8.2,2,152.11,76.06,25.6,0,7,0
+CUST-1374,40,Female,North America,Basic,Variant_New_Checkout,4.2,4,286.05,71.51,43.7,1,10,0
+CUST-1375,50,Female,Asia-Pacific,Basic,Control,7.4,7,382.58,54.65,27.0,0,7,1
+CUST-1376,20,Male,North America,Silver,Variant_New_Checkout,15.7,14,615.51,43.96,15.7,1,6,0
+CUST-1377,35,Female,Latin America,Gold,Control,18.6,9,350.94,38.99,31.4,0,9,0
+CUST-1378,42,Female,Europe,Silver,Control,7.5,1,140.81,140.81,34.5,0,5,0
+CUST-1379,59,Female,Europe,Basic,Variant_New_Checkout,8.3,1,243.34,243.34,20.9,1,3,0
+CUST-1380,48,Male,Europe,Silver,Control,16.0,9,498.07,55.34,16.3,1,8,1
+CUST-1381,20,Female,Europe,Basic,Variant_New_Checkout,8.2,8,354.04,44.26,24.5,1,9,0
+CUST-1382,57,Female,Asia-Pacific,Silver,Control,6.8,1,73.18,73.18,28.9,0,8,0
+CUST-1383,63,Male,North America,Basic,Variant_New_Checkout,16.8,2,100.05,50.02,34.6,1,6,0
+CUST-1384,41,Male,North America,Basic,Variant_New_Checkout,9.1,3,117.32,39.11,39.1,1,8,0
+CUST-1385,67,Non-Binary,Asia-Pacific,Basic,Control,5.9,6,376.73,62.79,30.2,1,7,0
+CUST-1386,49,Male,Latin America,Basic,Control,10.1,7,87.16,12.45,19.7,1,6,0
+CUST-1387,64,Female,Asia-Pacific,Basic,Variant_New_Checkout,9.3,2,123.84,61.92,33.5,0,10,0
+CUST-1388,39,Female,Europe,Basic,Variant_New_Checkout,4.7,9,265.53,29.5,19.4,1,6,0
+CUST-1389,40,Male,Asia-Pacific,Silver,Control,13.4,4,496.17,124.04,10.7,1,8,0
+CUST-1390,19,Female,Europe,Silver,Control,17.2,14,666.13,47.58,17.3,1,9,0
+CUST-1391,44,Male,Europe,Basic,Variant_New_Checkout,8.9,2,108.29,54.14,23.7,0,8,0
+CUST-1392,59,Female,North America,Gold,Variant_New_Checkout,5.4,13,1171.36,90.1,30.0,1,10,0
+CUST-1393,19,Male,Europe,Basic,Control,10.7,2,50.85,25.42,21.9,0,8,0
+CUST-1394,43,Female,North America,Silver,Control,15.6,4,207.97,51.99,31.5,1,8,0
+CUST-1395,34,Male,North America,Basic,Control,7.7,7,295.28,42.18,26.4,0,8,0
+CUST-1396,57,Male,Asia-Pacific,Basic,Variant_New_Checkout,7.7,1,136.08,136.08,23.4,0,9,0
+CUST-1397,50,Non-Binary,North America,Silver,Control,22.7,5,236.68,47.34,8.5,1,7,0
+CUST-1398,26,Male,North America,Silver,Variant_New_Checkout,10.1,5,236.11,47.22,6.3,1,6,0
+CUST-1399,60,Female,North America,Gold,Control,10.8,2,106.92,53.46,10.3,1,9,0
+CUST-1400,65,Male,Latin America,Silver,Control,13.1,5,276.35,55.27,19.7,0,9,1
+CUST-1401,56,Female,Europe,Platinum,Variant_New_Checkout,28.6,5,352.17,70.43,13.9,1,8,0
+CUST-1402,46,Male,Europe,Basic,Variant_New_Checkout,11.3,3,149.19,49.73,24.5,1,7,0
+CUST-1403,59,Non-Binary,Asia-Pacific,Basic,Variant_New_Checkout,1.7,3,195.71,65.24,11.7,1,5,1
+CUST-1404,43,Male,Asia-Pacific,Basic,Control,7.5,6,428.97,71.5,20.5,1,7,0
+CUST-1405,52,Male,North America,Basic,Variant_New_Checkout,13.3,10,418.28,41.83,8.3,1,6,0
+CUST-1406,67,Male,Europe,Silver,Variant_New_Checkout,14.4,2,71.85,35.92,12.8,0,6,0
+CUST-1407,42,Male,Asia-Pacific,Silver,Control,7.6,12,451.4,37.62,36.0,0,7,0
+CUST-1408,41,Female,Europe,Basic,Control,13.6,4,98.01,24.5,39.3,1,6,0
+CUST-1409,30,Male,North America,Platinum,Control,31.7,23,1343.63,58.42,15.8,0,8,0
+CUST-1410,24,Female,Asia-Pacific,Gold,Control,15.6,5,184.17,36.83,17.4,0,7,0
+CUST-1411,53,Male,Europe,Basic,Variant_New_Checkout,12.4,8,354.96,44.37,22.5,0,7,0
+CUST-1412,62,Male,North America,Basic,Control,16.0,3,160.18,53.39,53.6,0,5,0
+CUST-1413,37,Female,Europe,Basic,Variant_New_Checkout,6.2,8,332.84,41.6,25.1,1,7,0
+CUST-1414,18,Female,North America,Basic,Variant_New_Checkout,11.4,4,207.67,51.92,13.0,1,7,0
+CUST-1415,25,Male,North America,Basic,Variant_New_Checkout,16.0,3,121.98,40.66,48.5,0,6,0
+CUST-1416,63,Male,Asia-Pacific,Silver,Variant_New_Checkout,15.8,1,196.21,196.21,8.0,1,7,0
+CUST-1417,33,Male,North America,Basic,Control,7.2,2,53.82,26.91,23.6,1,5,0
+CUST-1418,31,Female,Europe,Basic,Control,10.4,5,390.37,78.07,51.1,1,7,1
+CUST-1419,29,Female,Europe,Platinum,Control,35.0,16,821.59,51.35,11.0,0,8,0
+CUST-1420,40,Male,North America,Silver,Variant_New_Checkout,8.6,6,368.21,61.37,24.5,1,7,0
+CUST-1421,32,Female,Latin America,Platinum,Control,23.8,6,653.71,108.95,23.6,0,8,0
+CUST-1422,45,Female,North America,Basic,Variant_New_Checkout,8.8,3,155.47,51.82,68.0,1,6,0
+CUST-1423,51,Female,North America,Basic,Control,7.6,3,233.68,77.89,38.1,0,6,0
+CUST-1424,19,Female,North America,Silver,Control,14.0,6,189.19,31.53,44.3,1,7,0
+CUST-1425,49,Male,North America,Basic,Control,9.3,5,604.91,120.98,31.5,0,8,0
+CUST-1426,40,Male,North America,Basic,Variant_New_Checkout,11.7,4,295.64,73.91,39.0,1,9,0
+CUST-1427,39,Male,Asia-Pacific,Silver,Variant_New_Checkout,17.9,6,223.72,37.29,22.9,1,10,0
+CUST-1428,42,Male,Latin America,Silver,Control,7.5,4,225.1,56.28,30.4,1,7,0
+CUST-1429,39,Female,North America,Silver,Variant_New_Checkout,13.3,7,315.9,45.13,8.9,0,8,0
+CUST-1430,39,Female,Europe,Silver,Control,12.7,4,214.82,53.7,4.9,1,6,0
+CUST-1431,66,Male,Asia-Pacific,Silver,Variant_New_Checkout,13.8,4,178.17,44.54,73.6,0,6,1
+CUST-1432,59,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.6,7,294.51,42.07,62.9,0,8,1
+CUST-1433,23,Male,Europe,Basic,Control,6.5,6,337.71,56.28,48.9,0,6,1
+CUST-1434,32,Female,North America,Basic,Variant_New_Checkout,14.3,6,400.42,66.74,34.3,0,10,0
+CUST-1435,60,Male,North America,Basic,Control,15.6,6,312.58,52.1,71.1,0,5,0
+CUST-1436,54,Female,Asia-Pacific,Platinum,Variant_New_Checkout,28.4,3,310.07,103.36,25.8,1,9,0
+CUST-1437,50,Male,Asia-Pacific,Silver,Control,15.5,9,422.97,47.0,61.5,0,6,0
+CUST-1438,25,Male,North America,Gold,Variant_New_Checkout,18.0,16,608.48,38.03,45.4,1,7,1
+CUST-1439,61,Non-Binary,North America,Basic,Control,12.7,5,277.92,55.58,42.9,1,8,0
+CUST-1440,61,Non-Binary,Latin America,Basic,Variant_New_Checkout,1.8,7,411.35,58.76,31.5,1,7,1
+CUST-1441,22,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.6,4,165.1,41.28,48.4,1,7,0
+CUST-1442,56,Female,Latin America,Basic,Variant_New_Checkout,7.8,3,195.31,65.1,9.8,1,7,1
+CUST-1443,21,Female,Asia-Pacific,Basic,Variant_New_Checkout,10.1,9,394.0,43.78,46.5,0,10,0
+CUST-1444,23,Female,North America,Gold,Variant_New_Checkout,23.6,8,409.54,51.19,46.6,1,7,0
+CUST-1445,62,Male,Europe,Silver,Control,13.0,1,192.4,192.4,58.3,0,7,0
+CUST-1446,49,Female,Europe,Silver,Control,11.4,5,341.35,68.27,43.9,1,7,0
+CUST-1447,47,Female,North America,Silver,Control,6.9,14,583.94,41.71,34.2,1,8,0
+CUST-1448,64,Female,Europe,Platinum,Variant_New_Checkout,23.1,5,369.61,73.92,41.7,1,7,1
+CUST-1449,52,Male,Asia-Pacific,Basic,Control,11.8,13,615.11,47.32,27.5,1,7,0
+CUST-1450,57,Male,North America,Basic,Variant_New_Checkout,6.9,1,162.7,162.7,19.5,1,8,0
+CUST-1451,33,Male,Asia-Pacific,Basic,Variant_New_Checkout,3.2,6,233.78,38.96,26.7,0,7,0
+CUST-1452,30,Female,Europe,Gold,Control,30.4,11,874.23,79.48,15.5,1,9,0
+CUST-1453,67,Male,Latin America,Platinum,Control,26.7,11,531.61,48.33,31.7,0,9,0
+CUST-1454,59,Female,North America,Basic,Control,8.9,8,367.87,45.98,41.7,1,8,0
+CUST-1455,47,Non-Binary,North America,Gold,Control,25.3,4,136.8,34.2,8.8,1,7,0
+CUST-1456,36,Male,Europe,Gold,Control,18.1,5,283.2,56.64,32.9,1,3,0
+CUST-1457,34,Female,North America,Basic,Control,13.9,6,231.99,38.66,17.5,1,8,0
+CUST-1458,36,Male,Asia-Pacific,Basic,Variant_New_Checkout,13.6,4,108.81,27.2,43.2,0,7,0
+CUST-1459,45,Female,Asia-Pacific,Silver,Variant_New_Checkout,7.5,2,147.23,73.61,32.5,0,7,0
+CUST-1460,43,Male,North America,Platinum,Control,27.7,18,803.48,44.64,33.7,1,4,0
+CUST-1461,54,Female,Europe,Basic,Control,15.1,3,178.81,59.6,6.0,0,8,0
+CUST-1462,43,Female,Europe,Gold,Control,11.5,7,279.72,39.96,21.0,1,5,1
+CUST-1463,40,Female,North America,Basic,Variant_New_Checkout,6.4,6,203.48,33.91,29.7,0,8,0
+CUST-1464,26,Female,Latin America,Gold,Variant_New_Checkout,12.6,14,1020.88,72.92,39.8,0,9,0
+CUST-1465,29,Female,Asia-Pacific,Silver,Control,16.8,8,496.03,62.0,27.2,0,6,0
+CUST-1466,18,Female,Europe,Silver,Control,14.2,8,412.64,51.58,32.9,1,9,0
+CUST-1467,18,Female,Asia-Pacific,Gold,Variant_New_Checkout,6.1,12,381.05,31.75,4.9,1,7,0
+CUST-1468,64,Female,Europe,Gold,Variant_New_Checkout,19.2,4,142.61,35.65,26.5,1,9,0
+CUST-1469,51,Male,Latin America,Gold,Control,15.8,9,380.87,42.32,59.9,0,5,0
+CUST-1470,49,Female,Europe,Basic,Variant_New_Checkout,9.2,5,219.34,43.87,36.2,0,9,0
+CUST-1471,65,Female,Asia-Pacific,Silver,Control,9.3,2,77.74,38.87,19.0,1,9,0
+CUST-1472,42,Female,Asia-Pacific,Basic,Control,10.7,15,570.54,38.04,33.0,0,8,0
+CUST-1473,57,Male,North America,Silver,Variant_New_Checkout,17.5,12,521.13,43.43,23.3,0,7,0
+CUST-1474,62,Female,Asia-Pacific,Silver,Variant_New_Checkout,10.2,4,423.26,105.82,37.3,1,6,0
+CUST-1475,18,Male,North America,Silver,Control,5.7,4,72.33,18.08,42.9,0,7,0
+CUST-1476,33,Female,North America,Silver,Variant_New_Checkout,11.7,13,588.42,45.26,37.2,1,9,0
+CUST-1477,56,Male,North America,Platinum,Control,30.1,6,422.03,70.34,35.2,1,7,0
+CUST-1478,22,Female,Latin America,Basic,Variant_New_Checkout,8.3,2,197.6,98.8,21.5,1,5,1
+CUST-1479,39,Non-Binary,Asia-Pacific,Silver,Control,6.5,4,363.58,90.9,16.9,1,6,1
+CUST-1480,46,Male,Asia-Pacific,Basic,Variant_New_Checkout,12.0,4,272.04,68.01,35.7,0,10,0
+CUST-1481,20,Non-Binary,Asia-Pacific,Basic,Variant_New_Checkout,14.1,4,115.88,28.97,12.4,1,9,0
+CUST-1482,29,Male,Europe,Basic,Control,9.7,3,181.56,60.52,25.4,1,5,0
+CUST-1483,43,Female,Latin America,Platinum,Variant_New_Checkout,11.2,11,254.15,23.1,45.3,1,5,0
+CUST-1484,33,Female,Europe,Gold,Variant_New_Checkout,15.4,2,177.42,88.71,67.0,1,7,0
+CUST-1485,54,Female,North America,Platinum,Variant_New_Checkout,25.2,14,707.75,50.55,49.1,1,5,0
+CUST-1486,39,Female,North America,Platinum,Control,17.5,10,532.61,53.26,48.5,0,7,0
+CUST-1487,46,Female,Asia-Pacific,Basic,Variant_New_Checkout,11.5,9,516.93,57.44,6.2,1,10,0
+CUST-1488,31,Male,Asia-Pacific,Basic,Variant_New_Checkout,6.7,3,155.91,51.97,35.2,0,5,1
+CUST-1489,45,Male,North America,Silver,Control,13.1,12,712.75,59.4,39.1,0,7,0
+CUST-1490,22,Female,North America,Silver,Variant_New_Checkout,12.0,7,230.11,32.87,18.7,1,10,0
+CUST-1491,64,Female,Asia-Pacific,Silver,Control,15.6,4,205.0,51.25,26.6,0,8,0
+CUST-1492,66,Female,North America,Basic,Control,9.6,4,117.88,29.47,36.2,0,7,0
+CUST-1493,47,Female,Asia-Pacific,Silver,Variant_New_Checkout,12.1,7,357.53,51.08,16.2,1,8,1
+CUST-1494,63,Male,Latin America,Silver,Variant_New_Checkout,9.5,6,456.43,76.07,51.0,1,6,0
+CUST-1495,22,Female,Europe,Basic,Variant_New_Checkout,9.7,5,171.17,34.23,42.6,0,7,0
+CUST-1496,29,Male,North America,Silver,Control,11.8,14,636.5,45.46,26.6,1,8,0
+CUST-1497,33,Female,Asia-Pacific,Silver,Variant_New_Checkout,9.2,4,183.86,45.96,51.2,1,9,0
+CUST-1498,43,Male,Asia-Pacific,Silver,Control,13.6,2,295.98,147.99,8.7,0,6,0
+CUST-1499,43,Male,Europe,Basic,Control,10.8,6,290.86,48.48,17.8,1,7,0
+CUST-1500,65,Male,Latin America,Gold,Control,15.3,11,658.91,59.9,35.9,0,6,0
+CUST-1501,38,Male,North America,Basic,Variant_New_Checkout,12.6,7,487.54,69.65,52.4,1,8,1
+CUST-1502,56,Female,Europe,Basic,Variant_New_Checkout,10.4,6,212.82,35.47,32.3,1,9,0
+CUST-1503,53,Male,Asia-Pacific,Gold,Variant_New_Checkout,9.9,17,558.87,32.87,39.1,1,9,0
+CUST-1504,50,Male,Asia-Pacific,Silver,Variant_New_Checkout,18.7,10,425.5,42.55,9.0,1,6,0
+CUST-1505,47,Male,North America,Basic,Control,12.1,1,119.5,119.5,39.1,0,7,1
+CUST-1506,54,Male,Asia-Pacific,Silver,Variant_New_Checkout,17.3,5,301.27,60.25,50.4,1,7,0
+CUST-1507,40,Male,Europe,Silver,Control,14.7,3,143.35,47.78,56.7,0,9,1
+CUST-1508,27,Male,North America,Gold,Control,3.8,6,279.81,46.64,16.6,1,7,0
+CUST-1509,22,Female,North America,Gold,Control,23.6,14,349.82,24.99,20.0,0,5,0
+CUST-1510,53,Female,Asia-Pacific,Silver,Variant_New_Checkout,13.2,7,406.83,58.12,27.1,0,7,0
+CUST-1511,51,Female,North America,Silver,Variant_New_Checkout,14.5,3,264.59,88.2,53.2,1,8,1
+CUST-1512,48,Male,North America,Basic,Variant_New_Checkout,11.3,11,403.52,36.68,3.8,0,8,0
+CUST-1513,27,Male,North America,Basic,Control,15.8,2,77.98,38.99,9.3,1,6,0
+CUST-1514,36,Female,Asia-Pacific,Silver,Control,10.6,5,217.2,43.44,16.3,0,6,0
+CUST-1515,49,Female,Europe,Silver,Variant_New_Checkout,10.7,3,209.79,69.93,28.2,1,6,0
+CUST-1516,18,Male,Asia-Pacific,Silver,Control,9.3,8,478.33,59.79,26.0,0,7,0
+CUST-1517,22,Male,North America,Basic,Variant_New_Checkout,6.2,1,197.85,197.85,19.2,0,7,1
+CUST-1518,62,Male,Europe,Basic,Variant_New_Checkout,6.2,2,192.85,96.42,10.3,1,9,1
+CUST-1519,21,Male,Europe,Silver,Control,5.0,4,119.5,29.88,36.5,1,6,1
+CUST-1520,33,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.0,4,342.87,85.72,26.7,1,8,0
+CUST-1521,41,Female,Latin America,Gold,Variant_New_Checkout,28.7,7,148.44,21.21,27.2,1,8,0
+CUST-1522,33,Female,North America,Basic,Control,16.2,6,311.22,51.87,53.7,1,9,0
+CUST-1523,19,Female,Europe,Silver,Variant_New_Checkout,9.3,6,291.21,48.54,25.7,1,9,0
+CUST-1524,66,Female,North America,Platinum,Control,21.8,9,369.49,41.05,28.0,0,8,0
+CUST-1525,45,Female,Europe,Basic,Variant_New_Checkout,13.5,6,201.26,33.54,32.6,1,8,0
+CUST-1526,49,Female,North America,Silver,Variant_New_Checkout,14.8,2,250.75,125.38,34.7,0,6,1
+CUST-1527,44,Female,North America,Basic,Variant_New_Checkout,10.0,5,209.44,41.89,17.5,0,6,1
+CUST-1528,37,Male,North America,Silver,Variant_New_Checkout,11.9,7,102.9,14.7,65.3,0,7,0
+CUST-1529,41,Male,Europe,Silver,Control,18.1,8,501.11,62.64,10.7,1,8,0
+CUST-1530,29,Male,North America,Silver,Variant_New_Checkout,8.3,3,184.12,61.37,46.0,1,8,0
+CUST-1531,67,Female,Asia-Pacific,Silver,Control,15.0,4,141.36,35.34,40.9,0,9,0
+CUST-1532,52,Female,Europe,Gold,Variant_New_Checkout,19.3,7,372.24,53.18,24.1,0,9,0
+CUST-1533,50,Male,North America,Basic,Variant_New_Checkout,9.7,15,364.52,24.3,26.5,1,7,1
+CUST-1534,50,Female,Asia-Pacific,Basic,Control,12.1,5,245.93,49.19,8.0,1,7,0
+CUST-1535,60,Male,North America,Gold,Control,17.5,6,194.19,32.36,46.8,1,7,0
+CUST-1536,54,Female,Europe,Silver,Variant_New_Checkout,10.7,13,643.99,49.54,29.9,1,7,0
+CUST-1537,29,Male,Europe,Gold,Variant_New_Checkout,17.8,2,355.67,177.84,38.5,1,7,0
+CUST-1538,20,Male,North America,Silver,Control,6.1,15,743.28,49.55,56.7,1,9,0
+CUST-1539,18,Female,North America,Gold,Control,20.8,10,494.61,49.46,10.2,1,7,0
+CUST-1540,50,Male,North America,Silver,Control,16.7,2,379.64,189.82,22.0,0,7,0
+CUST-1541,57,Male,Latin America,Gold,Variant_New_Checkout,13.5,4,241.43,60.36,42.8,1,7,0
+CUST-1542,27,Male,Europe,Platinum,Control,16.8,2,142.38,71.19,21.7,0,8,0
+CUST-1543,60,Female,Europe,Silver,Variant_New_Checkout,10.3,2,194.41,97.2,27.6,0,6,0
+CUST-1544,61,Female,Europe,Basic,Control,9.4,7,335.55,47.94,36.7,0,8,0
+CUST-1545,46,Male,North America,Basic,Variant_New_Checkout,10.3,4,260.22,65.06,14.8,1,9,1
+CUST-1546,30,Female,Europe,Basic,Control,14.8,4,86.81,21.7,45.7,0,7,0
+CUST-1547,29,Female,Asia-Pacific,Basic,Variant_New_Checkout,14.4,9,595.76,66.2,35.4,0,8,0
+CUST-1548,48,Male,North America,Basic,Control,12.3,6,219.84,36.64,43.5,1,7,0
+CUST-1549,63,Male,North America,Silver,Variant_New_Checkout,13.5,9,352.59,39.18,26.9,1,8,0
+CUST-1550,19,Male,North America,Silver,Control,9.0,7,400.28,57.18,23.2,0,7,0
+CUST-1551,67,Male,Europe,Silver,Variant_New_Checkout,20.2,4,223.21,55.8,48.5,1,8,0
+CUST-1552,52,Female,Latin America,Silver,Variant_New_Checkout,11.9,12,616.38,51.36,5.7,0,8,1
+CUST-1553,40,Male,North America,Basic,Control,10.5,3,66.37,22.12,22.2,1,7,0
+CUST-1554,34,Female,Europe,Basic,Variant_New_Checkout,11.6,7,344.08,49.15,13.6,0,6,0
+CUST-1555,43,Female,North America,Basic,Variant_New_Checkout,9.8,12,778.24,64.85,30.9,1,8,0
+CUST-1556,25,Male,Latin America,Silver,Control,17.9,3,68.92,22.97,20.5,0,8,0
+CUST-1557,46,Female,North America,Basic,Control,11.1,1,76.83,76.83,36.4,1,7,1
+CUST-1558,43,Male,Europe,Basic,Control,12.8,5,353.01,70.6,19.3,0,9,0
+CUST-1559,27,Non-Binary,Asia-Pacific,Silver,Variant_New_Checkout,14.9,2,109.16,54.58,30.1,1,9,0
+CUST-1560,43,Female,Asia-Pacific,Gold,Variant_New_Checkout,17.1,13,552.82,42.52,14.1,1,6,0
+CUST-1561,51,Female,Europe,Basic,Control,9.8,8,214.79,26.85,30.0,1,7,1
+CUST-1562,58,Female,North America,Silver,Variant_New_Checkout,12.7,4,442.48,110.62,6.3,0,7,0
+CUST-1563,24,Male,North America,Silver,Variant_New_Checkout,7.4,2,211.21,105.6,48.2,1,8,0
+CUST-1564,21,Female,North America,Gold,Variant_New_Checkout,11.5,10,357.35,35.74,36.7,1,8,0
+CUST-1565,67,Female,North America,Platinum,Variant_New_Checkout,29.9,5,599.0,119.8,52.3,0,9,1
+CUST-1566,62,Female,Europe,Basic,Variant_New_Checkout,5.6,9,394.28,43.81,25.7,0,8,1
+CUST-1567,28,Female,North America,Basic,Variant_New_Checkout,8.3,4,136.45,34.11,57.9,1,10,0
+CUST-1568,46,Female,North America,Gold,Control,11.2,3,272.57,90.86,50.7,0,8,1
+CUST-1569,53,Male,Europe,Silver,Variant_New_Checkout,11.0,7,256.14,36.59,36.8,0,7,0
+CUST-1570,42,Male,Latin America,Silver,Control,12.3,1,10.89,10.89,39.7,0,6,0
+CUST-1571,38,Female,Europe,Silver,Control,11.2,9,554.47,61.61,6.2,1,8,0
+CUST-1572,53,Male,North America,Silver,Control,6.8,1,91.68,91.68,27.8,1,5,1
+CUST-1573,27,Female,North America,Platinum,Variant_New_Checkout,22.5,25,1246.32,49.85,33.3,1,6,0
+CUST-1574,54,Female,Latin America,Platinum,Variant_New_Checkout,16.3,14,797.97,57.0,7.4,1,8,0
+CUST-1575,26,Male,North America,Gold,Control,13.6,11,492.9,44.81,28.1,1,9,0
+CUST-1576,41,Male,North America,Basic,Control,12.0,2,109.22,54.61,32.0,0,9,0
+CUST-1577,52,Female,Europe,Gold,Control,22.8,13,559.27,43.02,14.0,0,7,0
+CUST-1578,66,Male,Europe,Basic,Variant_New_Checkout,5.4,9,251.94,27.99,32.4,1,9,0
+CUST-1579,52,Female,Europe,Basic,Control,14.6,6,229.61,38.27,26.2,0,7,0
+CUST-1580,65,Male,North America,Gold,Variant_New_Checkout,14.3,18,958.02,53.22,33.8,1,6,0
+CUST-1581,53,Female,North America,Basic,Control,7.7,2,183.38,91.69,30.5,1,7,0
+CUST-1582,35,Male,Latin America,Basic,Control,6.7,6,457.46,76.24,18.1,0,6,0
+CUST-1583,66,Female,North America,Basic,Control,9.8,5,172.1,34.42,24.8,0,9,1
+CUST-1584,56,Male,Europe,Gold,Control,28.7,3,180.51,60.17,35.3,1,7,0
+CUST-1585,49,Female,Asia-Pacific,Silver,Variant_New_Checkout,6.3,3,159.15,53.05,15.2,1,6,0
+CUST-1586,41,Male,Europe,Silver,Control,4.1,2,328.64,164.32,39.0,1,5,0
+CUST-1587,40,Female,North America,Basic,Control,10.5,6,323.41,53.9,16.4,1,7,0
+CUST-1588,49,Female,North America,Gold,Control,20.6,10,540.87,54.09,37.4,0,4,0
+CUST-1589,54,Male,Europe,Gold,Control,17.6,9,685.03,76.11,45.7,0,6,1
+CUST-1590,29,Male,Asia-Pacific,Basic,Control,11.5,4,279.74,69.94,13.2,0,8,0
+CUST-1591,66,Male,Latin America,Silver,Control,8.1,2,106.61,53.3,29.1,1,6,1
+CUST-1592,30,Female,North America,Basic,Variant_New_Checkout,6.6,4,285.84,71.46,38.2,0,9,0
+CUST-1593,40,Female,North America,Platinum,Variant_New_Checkout,25.0,5,377.36,75.47,38.0,1,10,1
+CUST-1594,42,Female,Latin America,Silver,Control,20.6,3,295.99,98.66,27.8,0,6,0
+CUST-1595,52,Male,Asia-Pacific,Platinum,Control,28.5,6,422.73,70.46,7.9,1,7,0
+CUST-1596,58,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.5,5,204.21,40.84,41.6,0,9,0
+CUST-1597,47,Female,North America,Gold,Control,11.1,3,315.89,105.3,33.5,0,7,1
+CUST-1598,34,Female,Europe,Gold,Control,19.7,17,873.92,51.41,32.0,0,5,0
+CUST-1599,66,Non-Binary,Asia-Pacific,Silver,Control,7.9,3,57.59,19.2,33.1,1,7,0
+CUST-1600,37,Male,Europe,Platinum,Control,38.1,4,221.8,55.45,49.9,0,6,0
+CUST-1601,65,Female,Europe,Basic,Variant_New_Checkout,6.4,5,131.97,26.39,31.3,0,9,1
+CUST-1602,42,Male,North America,Basic,Control,7.1,2,166.58,83.29,33.3,0,8,0
+CUST-1603,39,Male,Europe,Silver,Variant_New_Checkout,6.6,8,421.87,52.73,17.5,1,7,0
+CUST-1604,30,Female,North America,Gold,Control,17.8,2,35.89,17.94,39.3,1,7,0
+CUST-1605,36,Female,Europe,Silver,Control,13.1,5,216.05,43.21,9.0,1,5,1
+CUST-1606,66,Non-Binary,Latin America,Basic,Variant_New_Checkout,14.4,4,341.12,85.28,38.2,1,7,0
+CUST-1607,53,Male,North America,Silver,Control,16.3,15,494.94,33.0,19.8,0,10,1
+CUST-1608,29,Male,Asia-Pacific,Basic,Variant_New_Checkout,7.1,4,86.6,21.65,36.9,0,8,0
+CUST-1609,58,Female,North America,Silver,Control,16.7,16,482.14,30.13,9.3,1,9,0
+CUST-1610,36,Female,Europe,Silver,Variant_New_Checkout,7.6,9,454.77,50.53,2.0,0,8,0
+CUST-1611,29,Male,Latin America,Gold,Control,13.1,8,714.42,89.3,41.2,1,9,0
+CUST-1612,26,Male,North America,Basic,Variant_New_Checkout,10.0,5,242.58,48.52,20.8,1,5,1
+CUST-1613,24,Male,North America,Silver,Control,8.1,11,312.69,28.43,46.7,1,7,1
+CUST-1614,45,Female,Europe,Basic,Variant_New_Checkout,13.0,3,352.7,117.57,36.5,0,10,0
+CUST-1615,31,Male,North America,Basic,Control,16.9,3,221.41,73.8,41.1,0,9,0
+CUST-1616,48,Male,Asia-Pacific,Gold,Variant_New_Checkout,15.6,2,167.0,83.5,32.5,1,10,0
+CUST-1617,36,Male,Latin America,Platinum,Control,18.8,6,250.63,41.77,37.3,0,7,0
+CUST-1618,64,Male,Europe,Basic,Variant_New_Checkout,9.2,5,244.21,48.84,24.8,1,7,0
+CUST-1619,33,Male,North America,Gold,Control,14.1,10,861.67,86.17,15.0,1,6,1
+CUST-1620,22,Female,Europe,Gold,Control,18.8,7,488.89,69.84,10.4,1,6,0
+CUST-1621,52,Male,Asia-Pacific,Gold,Control,9.7,2,220.92,110.46,15.1,1,8,0
+CUST-1622,29,Female,North America,Basic,Control,10.6,3,129.88,43.29,36.8,0,8,0
+CUST-1623,42,Male,Europe,Platinum,Control,39.3,4,334.36,83.59,55.3,0,7,0
+CUST-1624,38,Female,Europe,Basic,Variant_New_Checkout,3.2,6,237.12,39.52,15.1,1,9,0
+CUST-1625,53,Female,Europe,Basic,Variant_New_Checkout,5.9,2,225.32,112.66,34.8,1,8,0
+CUST-1626,40,Female,North America,Basic,Control,8.2,7,172.03,24.58,21.3,1,9,0
+CUST-1627,33,Female,Asia-Pacific,Silver,Variant_New_Checkout,15.3,8,281.55,35.19,26.5,1,9,0
+CUST-1628,56,Male,North America,Basic,Variant_New_Checkout,12.4,1,91.09,91.09,19.1,1,6,0
+CUST-1629,62,Male,North America,Basic,Control,12.2,3,66.36,22.12,18.3,1,8,0
+CUST-1630,59,Female,Asia-Pacific,Basic,Variant_New_Checkout,4.2,3,179.26,59.75,39.8,0,5,0
+CUST-1631,56,Non-Binary,Asia-Pacific,Gold,Variant_New_Checkout,13.4,4,195.58,48.9,5.6,1,8,1
+CUST-1632,31,Female,North America,Gold,Variant_New_Checkout,12.1,7,334.62,47.8,28.3,1,9,0
+CUST-1633,48,Female,North America,Basic,Control,9.4,4,311.51,77.88,10.3,0,5,0
+CUST-1634,22,Female,North America,Gold,Variant_New_Checkout,17.4,18,733.31,40.74,30.9,1,7,0
+CUST-1635,52,Male,North America,Gold,Control,9.4,10,558.54,55.85,38.8,1,7,0
+CUST-1636,40,Male,North America,Gold,Control,14.7,7,364.22,52.03,40.2,1,8,0
+CUST-1637,46,Female,North America,Basic,Control,11.5,6,280.26,46.71,14.7,1,7,0
+CUST-1638,60,Female,Europe,Silver,Variant_New_Checkout,10.2,8,304.02,38.0,8.0,1,6,1
+CUST-1639,28,Male,Asia-Pacific,Platinum,Variant_New_Checkout,22.4,10,494.33,49.43,1.7,1,8,0
+CUST-1640,35,Female,Europe,Silver,Variant_New_Checkout,20.3,6,422.73,70.46,7.6,0,5,0
+CUST-1641,64,Male,Europe,Basic,Variant_New_Checkout,16.0,3,202.58,67.53,60.1,0,7,0
+CUST-1642,29,Female,North America,Silver,Control,3.6,4,88.85,22.21,44.8,0,7,0
+CUST-1643,26,Male,Latin America,Silver,Control,13.5,4,216.11,54.03,36.3,1,7,0
+CUST-1644,27,Male,Asia-Pacific,Silver,Control,25.6,3,78.02,26.01,3.9,1,6,1
+CUST-1645,61,Female,Asia-Pacific,Basic,Control,11.1,5,154.49,30.9,25.3,1,5,0
+CUST-1646,34,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.7,5,272.74,54.55,14.3,1,7,0
+CUST-1647,55,Female,Latin America,Gold,Variant_New_Checkout,24.8,8,444.39,55.55,16.2,1,9,0
+CUST-1648,24,Female,Europe,Gold,Control,18.5,5,364.42,72.88,32.6,1,9,0
+CUST-1649,63,Female,North America,Basic,Control,11.9,1,180.17,180.17,52.9,1,10,0
+CUST-1650,30,Male,Europe,Platinum,Control,22.3,9,592.39,65.82,54.3,1,10,0
+CUST-1651,57,Male,Asia-Pacific,Basic,Control,10.3,5,281.88,56.38,67.4,1,5,1
+CUST-1652,59,Male,Asia-Pacific,Silver,Variant_New_Checkout,14.8,5,248.06,49.61,20.0,1,7,0
+CUST-1653,26,Non-Binary,Europe,Gold,Variant_New_Checkout,22.3,2,200.66,100.33,18.2,1,8,0
+CUST-1654,67,Female,North America,Gold,Variant_New_Checkout,14.8,11,463.9,42.17,33.6,1,8,1
+CUST-1655,44,Female,North America,Platinum,Control,20.3,3,246.4,82.13,28.1,1,7,0
+CUST-1656,19,Female,Latin America,Basic,Control,3.4,3,110.35,36.78,31.1,1,10,0
+CUST-1657,22,Female,Europe,Gold,Control,15.1,9,596.46,66.27,12.6,1,6,0
+CUST-1658,46,Female,Europe,Basic,Variant_New_Checkout,12.6,3,261.92,87.31,20.2,1,7,0
+CUST-1659,54,Male,North America,Gold,Variant_New_Checkout,19.9,13,807.77,62.14,30.9,1,10,0
+CUST-1660,55,Female,North America,Gold,Control,11.5,14,648.87,46.35,29.5,0,6,0
+CUST-1661,36,Male,Asia-Pacific,Silver,Variant_New_Checkout,4.7,4,312.99,78.25,39.8,1,8,0
+CUST-1662,25,Female,Europe,Basic,Control,9.1,8,335.77,41.97,39.9,1,9,0
+CUST-1663,65,Female,Asia-Pacific,Gold,Variant_New_Checkout,22.6,3,214.5,71.5,10.6,1,9,0
+CUST-1664,62,Female,Europe,Basic,Variant_New_Checkout,8.1,4,209.29,52.32,13.8,1,8,0
+CUST-1665,18,Male,Europe,Basic,Variant_New_Checkout,5.0,2,222.87,111.44,19.0,1,9,1
+CUST-1666,39,Male,North America,Gold,Variant_New_Checkout,13.9,4,340.66,85.16,28.9,0,6,0
+CUST-1667,34,Male,Asia-Pacific,Silver,Control,14.4,7,436.95,62.42,10.3,0,6,0
+CUST-1668,24,Male,Europe,Gold,Control,24.4,11,443.51,40.32,11.1,1,8,0
+CUST-1669,42,Male,Europe,Basic,Control,8.8,7,241.96,34.57,27.0,0,4,0
+CUST-1670,62,Female,Europe,Basic,Control,13.0,5,466.48,93.3,18.2,1,9,0
+CUST-1671,21,Female,Latin America,Gold,Variant_New_Checkout,22.7,7,398.77,56.97,55.8,1,8,0
+CUST-1672,53,Male,North America,Silver,Variant_New_Checkout,7.9,11,541.83,49.26,8.1,0,8,1
+CUST-1673,23,Male,Asia-Pacific,Basic,Control,13.6,10,378.95,37.89,64.5,1,5,1
+CUST-1674,48,Male,North America,Gold,Variant_New_Checkout,19.0,9,572.39,63.6,13.3,1,6,1
+CUST-1675,36,Female,Europe,Silver,Control,7.7,8,615.81,76.98,39.0,0,7,1
+CUST-1676,61,Female,North America,Silver,Control,20.6,5,299.35,59.87,64.4,0,8,1
+CUST-1677,56,Female,North America,Silver,Control,12.4,6,335.22,55.87,15.8,0,4,0
+CUST-1678,44,Female,Europe,Gold,Control,6.1,5,241.49,48.3,35.8,0,8,0
+CUST-1679,27,Non-Binary,North America,Gold,Control,13.2,6,283.75,47.29,17.1,0,7,1
+CUST-1680,43,Female,Europe,Gold,Control,11.8,13,431.69,33.21,31.8,1,7,0
+CUST-1681,36,Male,Latin America,Basic,Control,7.4,3,167.29,55.76,38.3,1,8,1
+CUST-1682,56,Female,North America,Gold,Variant_New_Checkout,14.7,9,520.39,57.82,36.8,0,8,0
+CUST-1683,20,Male,Asia-Pacific,Silver,Control,11.8,3,281.01,93.67,5.2,0,6,1
+CUST-1684,62,Female,Europe,Silver,Control,11.7,9,512.13,56.9,13.7,1,8,0
+CUST-1685,30,Male,Europe,Basic,Control,9.3,2,198.13,99.06,6.4,0,4,0
+CUST-1686,67,Female,North America,Gold,Variant_New_Checkout,20.7,14,679.74,48.55,23.6,1,7,0
+CUST-1687,45,Female,North America,Gold,Control,13.0,2,126.86,63.43,65.0,1,7,0
+CUST-1688,37,Female,North America,Basic,Variant_New_Checkout,13.4,2,145.66,72.83,57.8,1,7,1
+CUST-1689,45,Female,North America,Silver,Variant_New_Checkout,7.7,7,364.91,52.13,23.8,1,5,1
+CUST-1690,25,Male,North America,Gold,Variant_New_Checkout,20.8,5,308.19,61.64,12.1,0,9,0
+CUST-1691,58,Male,Europe,Basic,Variant_New_Checkout,14.9,2,218.0,109.0,65.4,1,6,0
+CUST-1692,56,Male,Asia-Pacific,Platinum,Control,22.6,14,478.15,34.15,62.8,0,7,1
+CUST-1693,18,Male,Asia-Pacific,Silver,Control,13.8,8,254.61,31.83,19.0,0,7,0
+CUST-1694,20,Female,Europe,Silver,Control,8.8,4,95.67,23.92,12.0,1,7,0
+CUST-1695,30,Male,North America,Basic,Variant_New_Checkout,8.0,3,265.28,88.43,23.4,0,10,0
+CUST-1696,45,Non-Binary,North America,Basic,Control,14.6,19,498.17,26.22,8.4,1,7,1
+CUST-1697,66,Female,North America,Platinum,Control,30.0,8,532.58,66.57,19.5,0,8,0
+CUST-1698,42,Female,North America,Basic,Variant_New_Checkout,10.9,6,230.46,38.41,4.8,1,8,0
+CUST-1699,50,Male,Europe,Gold,Control,6.1,17,943.4,55.49,14.2,1,8,0
+CUST-1700,55,Female,Europe,Basic,Variant_New_Checkout,7.3,12,758.03,63.17,19.4,1,10,0
+CUST-1701,23,Female,North America,Basic,Variant_New_Checkout,15.2,2,135.34,67.67,48.9,0,8,1
+CUST-1702,61,Female,North America,Basic,Control,10.9,17,548.28,32.25,28.0,0,8,0
+CUST-1703,62,Female,Asia-Pacific,Silver,Control,15.3,3,259.57,86.52,20.5,0,9,0
+CUST-1704,49,Female,Asia-Pacific,Platinum,Control,25.4,7,231.63,33.09,18.0,0,9,0
+CUST-1705,62,Male,North America,Basic,Variant_New_Checkout,7.6,5,355.49,71.1,62.4,1,7,0
+CUST-1706,64,Female,Latin America,Basic,Variant_New_Checkout,10.7,3,116.54,38.85,13.2,0,9,0
+CUST-1707,38,Male,Latin America,Basic,Variant_New_Checkout,4.7,3,227.48,75.83,2.9,1,8,0
+CUST-1708,33,Male,North America,Silver,Variant_New_Checkout,6.0,2,275.72,137.86,45.5,1,9,1
+CUST-1709,38,Male,North America,Silver,Variant_New_Checkout,9.8,3,329.1,109.7,22.0,1,9,0
+CUST-1710,28,Male,Europe,Gold,Control,18.4,3,147.72,49.24,17.7,1,8,0
+CUST-1711,54,Male,Latin America,Silver,Control,6.2,2,94.15,47.08,15.9,1,8,0
+CUST-1712,53,Male,Asia-Pacific,Silver,Variant_New_Checkout,13.5,4,482.5,120.62,28.9,1,8,0
+CUST-1713,52,Non-Binary,North America,Basic,Control,6.4,10,395.29,39.53,43.0,1,8,0
+CUST-1714,36,Female,North America,Platinum,Control,17.1,18,1028.4,57.13,42.4,0,7,0
+CUST-1715,37,Non-Binary,Europe,Basic,Variant_New_Checkout,13.8,1,94.72,94.72,34.7,1,7,0
+CUST-1716,35,Male,Europe,Basic,Control,9.7,5,134.54,26.91,48.5,0,10,0
+CUST-1717,64,Male,North America,Silver,Variant_New_Checkout,9.1,14,923.07,65.93,12.8,1,9,1
+CUST-1718,58,Female,Asia-Pacific,Silver,Variant_New_Checkout,13.8,6,185.13,30.86,2.4,0,7,0
+CUST-1719,66,Male,Europe,Silver,Control,6.6,3,84.77,28.26,52.4,1,7,0
+CUST-1720,31,Male,Asia-Pacific,Silver,Variant_New_Checkout,14.6,3,244.15,81.38,20.2,1,9,0
+CUST-1721,32,Female,Asia-Pacific,Gold,Control,23.7,2,73.64,36.82,47.5,1,6,0
+CUST-1722,48,Male,Asia-Pacific,Basic,Control,11.7,1,56.05,56.05,7.3,0,5,0
+CUST-1723,18,Female,Europe,Gold,Control,29.7,7,255.89,36.56,28.8,1,5,1
+CUST-1724,20,Female,Europe,Silver,Control,4.6,3,196.57,65.52,15.0,0,5,1
+CUST-1725,33,Male,North America,Silver,Control,13.5,1,71.47,71.47,26.9,0,5,0
+CUST-1726,40,Male,Europe,Silver,Control,7.2,15,552.34,36.82,35.8,0,5,0
+CUST-1727,28,Female,North America,Basic,Control,9.0,4,157.73,39.43,39.6,1,9,0
+CUST-1728,29,Male,Europe,Gold,Control,17.3,5,296.62,59.32,22.6,1,7,0
+CUST-1729,27,Male,North America,Silver,Variant_New_Checkout,22.8,3,234.92,78.31,11.8,0,7,0
+CUST-1730,49,Non-Binary,North America,Basic,Variant_New_Checkout,9.4,3,242.87,80.96,22.2,1,6,1
+CUST-1731,33,Male,North America,Silver,Control,12.6,18,725.3,40.29,55.8,0,7,0
+CUST-1732,25,Female,North America,Platinum,Control,32.0,14,714.66,51.05,28.3,1,5,1
+CUST-1733,55,Non-Binary,Asia-Pacific,Silver,Control,12.7,8,286.72,35.84,5.5,0,7,0
+CUST-1734,29,Male,Asia-Pacific,Platinum,Control,38.6,4,243.54,60.88,19.0,0,10,0
+CUST-1735,41,Male,Europe,Basic,Variant_New_Checkout,11.7,4,153.96,38.49,31.1,1,9,1
+CUST-1736,45,Male,North America,Basic,Variant_New_Checkout,12.3,3,196.4,65.47,52.4,1,7,0
+CUST-1737,25,Male,North America,Basic,Control,3.6,1,156.04,156.04,60.6,1,8,0
+CUST-1738,45,Male,North America,Silver,Control,21.5,6,377.3,62.88,39.3,0,6,0
+CUST-1739,53,Female,North America,Basic,Control,7.5,2,58.2,29.1,16.9,0,6,0
+CUST-1740,43,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.6,10,383.49,38.35,15.7,1,10,0
+CUST-1741,25,Female,North America,Platinum,Control,18.8,7,441.16,63.02,25.9,1,5,0
+CUST-1742,67,Non-Binary,North America,Gold,Variant_New_Checkout,11.4,2,195.45,97.72,27.2,0,7,0
+CUST-1743,45,Female,North America,Gold,Variant_New_Checkout,10.4,4,414.01,103.5,17.3,1,8,0
+CUST-1744,45,Female,North America,Basic,Control,9.9,3,175.62,58.54,6.7,0,6,0
+CUST-1745,54,Male,Europe,Basic,Variant_New_Checkout,3.3,2,172.43,86.22,35.0,0,9,0
+CUST-1746,58,Female,Europe,Basic,Variant_New_Checkout,8.8,2,176.45,88.22,16.5,0,7,0
+CUST-1747,53,Female,North America,Gold,Variant_New_Checkout,23.4,11,690.93,62.81,37.0,1,9,0
+CUST-1748,44,Male,North America,Platinum,Control,29.1,14,1299.55,92.82,33.8,1,8,0
+CUST-1749,34,Male,North America,Silver,Control,14.8,5,293.44,58.69,50.7,1,7,0
+CUST-1750,26,Female,North America,Basic,Variant_New_Checkout,6.7,7,391.49,55.93,62.4,0,10,0
+CUST-1751,50,Male,North America,Silver,Variant_New_Checkout,6.1,9,444.33,49.37,8.5,1,7,0
+CUST-1752,37,Male,Latin America,Basic,Variant_New_Checkout,12.9,5,385.13,77.03,11.7,1,10,0
+CUST-1753,30,Male,Europe,Basic,Variant_New_Checkout,8.2,4,229.53,57.38,57.9,1,10,1
+CUST-1754,45,Male,Europe,Silver,Variant_New_Checkout,12.6,10,467.55,46.76,43.6,1,10,0
+CUST-1755,65,Female,Europe,Gold,Variant_New_Checkout,16.1,10,534.49,53.45,11.1,0,8,0
+CUST-1756,46,Female,Europe,Basic,Control,11.8,3,126.37,42.12,59.3,0,6,0
+CUST-1757,30,Female,Europe,Basic,Variant_New_Checkout,15.5,7,352.84,50.41,7.5,0,10,0
+CUST-1758,63,Male,Europe,Platinum,Variant_New_Checkout,35.7,8,371.49,46.44,9.5,1,7,0
+CUST-1759,52,Male,Asia-Pacific,Basic,Variant_New_Checkout,2.1,8,521.65,65.21,22.5,0,7,1
+CUST-1760,23,Female,North America,Basic,Variant_New_Checkout,8.6,5,155.17,31.03,44.4,1,8,0
+CUST-1761,35,Male,Europe,Basic,Control,5.3,4,148.73,37.18,19.3,0,6,1
+CUST-1762,22,Male,Europe,Basic,Variant_New_Checkout,12.6,8,157.24,19.66,33.7,1,9,0
+CUST-1763,64,Female,Asia-Pacific,Basic,Variant_New_Checkout,9.6,9,552.33,61.37,4.2,1,7,0
+CUST-1764,42,Male,Europe,Gold,Control,20.8,9,874.03,97.11,69.8,1,7,0
+CUST-1765,19,Female,Europe,Basic,Control,8.3,3,216.61,72.2,17.5,0,9,0
+CUST-1766,27,Male,North America,Silver,Control,8.5,2,184.84,92.42,34.4,0,8,0
+CUST-1767,47,Male,Europe,Silver,Control,9.2,9,330.63,36.74,29.2,1,7,0
+CUST-1768,67,Male,North America,Silver,Control,6.3,6,163.93,27.32,28.5,1,7,0
+CUST-1769,62,Non-Binary,North America,Gold,Control,10.0,7,295.14,42.16,10.8,0,7,1
+CUST-1770,22,Female,North America,Gold,Variant_New_Checkout,8.8,10,553.1,55.31,4.7,1,7,0
+CUST-1771,50,Female,Europe,Basic,Variant_New_Checkout,6.3,2,197.67,98.84,16.1,1,8,0
+CUST-1772,18,Female,North America,Gold,Variant_New_Checkout,11.0,6,403.55,67.26,36.6,1,9,0
+CUST-1773,35,Male,North America,Silver,Variant_New_Checkout,14.7,16,435.03,27.19,17.9,0,8,1
+CUST-1774,49,Female,Asia-Pacific,Platinum,Control,26.8,14,752.6,53.76,42.5,1,8,0
+CUST-1775,64,Male,North America,Silver,Control,14.7,4,204.53,51.13,41.2,0,6,0
+CUST-1776,66,Female,Europe,Platinum,Variant_New_Checkout,33.4,5,381.65,76.33,6.0,1,7,0
+CUST-1777,28,Male,Europe,Gold,Control,16.8,8,540.87,67.61,21.7,1,6,0
+CUST-1778,38,Female,North America,Basic,Variant_New_Checkout,7.1,3,214.44,71.48,33.4,1,7,0
+CUST-1779,43,Male,Asia-Pacific,Silver,Variant_New_Checkout,22.5,7,508.1,72.59,14.0,0,10,0
+CUST-1780,42,Male,North America,Platinum,Variant_New_Checkout,31.2,5,358.22,71.64,50.3,1,9,0
+CUST-1781,39,Female,Europe,Gold,Variant_New_Checkout,18.2,5,336.06,67.21,22.4,1,6,1
+CUST-1782,44,Male,Europe,Basic,Control,9.9,7,336.96,48.14,7.4,1,8,0
+CUST-1783,66,Male,Europe,Gold,Control,18.9,6,278.87,46.48,50.6,1,7,0
+CUST-1784,30,Male,Europe,Basic,Variant_New_Checkout,9.0,2,33.83,16.92,31.3,0,7,1
+CUST-1785,50,Male,North America,Basic,Control,10.0,10,320.96,32.1,28.1,0,5,1
+CUST-1786,51,Female,North America,Silver,Variant_New_Checkout,15.1,6,377.1,62.85,24.2,1,9,0
+CUST-1787,58,Female,Asia-Pacific,Basic,Control,7.3,6,154.85,25.81,10.0,0,5,0
+CUST-1788,52,Female,Europe,Gold,Variant_New_Checkout,7.9,11,977.39,88.85,16.5,1,8,0
+CUST-1789,18,Female,Asia-Pacific,Basic,Variant_New_Checkout,3.0,4,138.5,34.62,3.1,1,6,1
+CUST-1790,38,Male,Asia-Pacific,Gold,Variant_New_Checkout,22.4,8,420.93,52.62,31.9,1,9,0
+CUST-1791,65,Female,Asia-Pacific,Basic,Control,4.5,7,196.2,28.03,20.6,1,7,0
+CUST-1792,23,Male,Europe,Basic,Control,11.1,1,59.62,59.62,11.5,1,7,0
+CUST-1793,45,Male,North America,Basic,Variant_New_Checkout,5.9,2,212.64,106.32,7.8,0,8,1
+CUST-1794,34,Female,Asia-Pacific,Basic,Control,6.0,8,401.69,50.21,12.6,1,8,1
+CUST-1795,22,Male,Europe,Basic,Variant_New_Checkout,7.3,2,208.35,104.18,15.7,1,8,0
+CUST-1796,48,Female,North America,Basic,Variant_New_Checkout,10.2,5,215.4,43.08,16.6,1,8,0
+CUST-1797,22,Male,Asia-Pacific,Silver,Variant_New_Checkout,7.4,14,613.42,43.82,52.8,0,7,1
+CUST-1798,55,Female,Asia-Pacific,Basic,Variant_New_Checkout,7.6,4,117.03,29.26,17.3,0,5,0
+CUST-1799,20,Female,Europe,Silver,Control,12.8,10,504.82,50.48,17.7,1,6,0
+CUST-1800,40,Female,North America,Basic,Variant_New_Checkout,5.7,5,87.68,17.54,44.5,1,9,0
+CUST-1801,54,Female,North America,Gold,Variant_New_Checkout,25.5,8,701.83,87.73,12.1,1,7,0
+CUST-1802,54,Female,Asia-Pacific,Platinum,Control,10.2,3,205.93,68.64,70.0,0,6,0
+CUST-1803,27,Male,Latin America,Silver,Variant_New_Checkout,12.0,4,188.64,47.16,16.3,1,6,0
+CUST-1804,27,Female,North America,Basic,Control,13.7,2,88.04,44.02,32.8,0,5,0
+CUST-1805,36,Male,North America,Basic,Control,5.4,6,316.92,52.82,52.9,1,6,1
+CUST-1806,34,Female,Asia-Pacific,Platinum,Control,23.1,10,539.22,53.92,30.0,0,9,1
+CUST-1807,38,Female,North America,Basic,Variant_New_Checkout,10.0,3,359.79,119.93,4.2,0,7,1
+CUST-1808,31,Female,Europe,Basic,Control,7.0,3,234.14,78.05,20.2,0,8,1
+CUST-1809,26,Male,Latin America,Basic,Variant_New_Checkout,9.4,5,185.05,37.01,34.9,1,7,0
+CUST-1810,63,Male,North America,Basic,Variant_New_Checkout,11.4,9,325.6,36.18,4.9,0,9,0
+CUST-1811,18,Female,Europe,Basic,Control,8.1,6,244.82,40.8,4.8,1,7,0
+CUST-1812,62,Male,North America,Gold,Control,21.7,9,413.77,45.97,52.5,1,5,0
+CUST-1813,30,Male,North America,Basic,Variant_New_Checkout,10.9,6,203.23,33.87,28.1,0,7,0
+CUST-1814,21,Male,Asia-Pacific,Silver,Control,10.4,9,282.7,31.41,7.8,0,10,0
+CUST-1815,18,Female,Europe,Basic,Variant_New_Checkout,13.2,3,191.66,63.89,16.3,0,10,1
+CUST-1816,66,Female,Latin America,Basic,Control,7.2,4,167.18,41.8,25.0,1,8,0
+CUST-1817,57,Male,Europe,Platinum,Control,30.8,17,570.62,33.57,31.8,0,7,0
+CUST-1818,49,Male,North America,Basic,Variant_New_Checkout,7.3,16,715.38,44.71,11.8,1,8,0
+CUST-1819,51,Male,North America,Gold,Control,15.5,8,238.71,29.84,34.9,1,8,0
+CUST-1820,45,Female,North America,Silver,Control,12.3,6,706.84,117.81,33.4,0,7,1
+CUST-1821,48,Female,North America,Basic,Control,10.7,4,310.66,77.67,23.9,1,8,0
+CUST-1822,25,Male,North America,Platinum,Control,4.7,10,460.27,46.03,21.3,0,8,0
+CUST-1823,56,Male,North America,Basic,Variant_New_Checkout,11.1,4,132.16,33.04,19.8,1,7,1
+CUST-1824,43,Male,Europe,Gold,Variant_New_Checkout,16.7,2,157.89,78.94,30.3,1,6,0
+CUST-1825,51,Female,Asia-Pacific,Basic,Control,10.5,5,154.49,30.9,17.2,0,7,0
+CUST-1826,20,Female,Europe,Gold,Variant_New_Checkout,20.2,8,407.11,50.89,24.5,0,9,0
+CUST-1827,67,Male,Asia-Pacific,Basic,Variant_New_Checkout,10.9,8,443.87,55.48,19.3,1,8,0
+CUST-1828,29,Male,North America,Silver,Control,4.3,4,487.41,121.85,21.5,1,8,0
+CUST-1829,18,Male,North America,Gold,Control,11.2,11,321.1,29.19,34.3,0,7,1
+CUST-1830,61,Non-Binary,Europe,Platinum,Variant_New_Checkout,26.7,6,406.21,67.7,40.1,1,6,1
+CUST-1831,22,Male,Europe,Platinum,Variant_New_Checkout,25.6,6,475.48,79.25,25.5,1,7,0
+CUST-1832,47,Female,North America,Gold,Variant_New_Checkout,12.7,5,421.59,84.32,70.0,1,6,1
+CUST-1833,47,Female,Asia-Pacific,Gold,Variant_New_Checkout,21.5,3,275.48,91.83,24.5,1,6,1
+CUST-1834,34,Male,Asia-Pacific,Basic,Control,8.8,5,232.0,46.4,19.2,0,9,0
+CUST-1835,65,Male,Europe,Basic,Variant_New_Checkout,12.4,8,234.93,29.37,5.3,1,7,1
+CUST-1836,64,Male,North America,Basic,Variant_New_Checkout,13.5,7,253.98,36.28,19.3,0,7,0
+CUST-1837,40,Female,Asia-Pacific,Basic,Variant_New_Checkout,10.5,9,491.67,54.63,31.1,1,10,0
+CUST-1838,32,Female,Europe,Basic,Control,11.4,14,440.72,31.48,57.0,0,8,0
+CUST-1839,54,Female,Asia-Pacific,Silver,Control,10.3,5,372.32,74.46,27.1,1,7,0
+CUST-1840,38,Female,Asia-Pacific,Basic,Control,12.5,5,258.75,51.75,19.4,1,8,0
+CUST-1841,31,Male,Asia-Pacific,Silver,Variant_New_Checkout,13.9,15,930.64,62.04,24.5,1,7,0
+CUST-1842,19,Non-Binary,Europe,Basic,Control,8.7,1,18.62,18.62,62.5,1,6,0
+CUST-1843,28,Female,North America,Basic,Control,5.7,3,368.73,122.91,41.4,1,8,1
+CUST-1844,56,Male,Europe,Silver,Control,10.9,26,1018.83,39.19,41.8,1,7,0
+CUST-1845,55,Non-Binary,Europe,Gold,Control,10.9,11,311.08,28.28,22.1,1,7,0
+CUST-1846,51,Female,Asia-Pacific,Gold,Variant_New_Checkout,21.7,13,503.09,38.7,48.7,1,9,0
+CUST-1847,55,Female,North America,Silver,Variant_New_Checkout,18.2,7,305.8,43.69,9.3,1,9,1
+CUST-1848,67,Female,North America,Basic,Variant_New_Checkout,12.5,6,287.5,47.92,50.7,1,7,1
+CUST-1849,51,Female,Asia-Pacific,Silver,Control,23.7,7,514.73,73.53,17.6,0,8,0
+CUST-1850,35,Female,Asia-Pacific,Basic,Variant_New_Checkout,8.1,5,534.76,106.95,25.4,1,6,0
+CUST-1851,47,Male,Latin America,Basic,Control,11.5,3,183.13,61.04,17.3,0,8,0
+CUST-1852,32,Male,Asia-Pacific,Silver,Control,7.9,7,468.8,66.97,37.0,1,7,0
+CUST-1853,44,Female,Europe,Basic,Control,9.0,9,373.15,41.46,34.2,0,8,0
+CUST-1854,51,Male,Europe,Basic,Control,4.9,4,176.09,44.02,37.8,0,7,0
+CUST-1855,55,Male,Asia-Pacific,Platinum,Control,28.5,9,657.07,73.01,8.3,0,10,0
+CUST-1856,50,Male,Europe,Platinum,Variant_New_Checkout,21.2,14,728.84,52.06,13.0,1,6,0
+CUST-1857,41,Male,Europe,Basic,Variant_New_Checkout,3.0,1,88.76,88.76,28.2,0,9,0
+CUST-1858,32,Female,North America,Basic,Variant_New_Checkout,7.4,6,355.34,59.22,26.5,0,6,0
+CUST-1859,47,Female,Europe,Basic,Control,15.3,1,48.5,48.5,32.8,1,8,0
+CUST-1860,59,Male,Asia-Pacific,Basic,Control,10.9,10,330.49,33.05,8.8,0,8,1
+CUST-1861,34,Male,North America,Platinum,Control,30.2,9,647.95,71.99,8.3,0,7,0
+CUST-1862,22,Male,North America,Basic,Variant_New_Checkout,10.0,6,420.26,70.04,27.8,1,7,0
+CUST-1863,46,Female,North America,Gold,Variant_New_Checkout,16.2,3,63.56,21.19,70.5,1,8,0
+CUST-1864,21,Female,North America,Basic,Variant_New_Checkout,9.6,6,398.33,66.39,10.6,0,8,0
+CUST-1865,27,Male,North America,Platinum,Control,26.0,17,923.6,54.33,7.2,1,10,0
+CUST-1866,34,Female,Europe,Basic,Variant_New_Checkout,6.1,12,566.67,47.22,23.7,0,6,0
+CUST-1867,27,Female,Latin America,Gold,Control,21.7,3,122.31,40.77,49.8,1,6,0
+CUST-1868,34,Female,Europe,Basic,Variant_New_Checkout,13.2,7,348.41,49.77,46.3,1,8,0
+CUST-1869,37,Female,North America,Silver,Variant_New_Checkout,12.1,2,105.8,52.9,21.9,1,7,1
+CUST-1870,41,Male,North America,Basic,Variant_New_Checkout,7.9,2,346.99,173.5,40.4,1,8,1
+CUST-1871,22,Female,Europe,Basic,Variant_New_Checkout,7.2,11,447.88,40.72,10.8,0,9,0
+CUST-1872,51,Male,North America,Platinum,Control,38.1,1,318.91,318.91,51.1,1,3,0
+CUST-1873,23,Female,Asia-Pacific,Platinum,Variant_New_Checkout,20.4,10,503.91,50.39,17.8,1,7,0
+CUST-1874,19,Female,Europe,Gold,Variant_New_Checkout,21.0,6,436.68,72.78,28.7,1,5,0
+CUST-1875,30,Female,Asia-Pacific,Silver,Control,12.1,1,95.19,95.19,28.5,0,5,0
+CUST-1876,60,Female,North America,Gold,Control,15.9,7,524.04,74.86,31.6,1,10,0
+CUST-1877,60,Male,Europe,Basic,Control,7.2,2,50.19,25.1,11.1,1,8,1
+CUST-1878,65,Female,North America,Basic,Control,6.5,4,186.41,46.6,72.4,0,9,0
+CUST-1879,28,Non-Binary,Latin America,Basic,Control,12.0,5,538.01,107.6,13.6,1,7,0
+CUST-1880,64,Female,Europe,Silver,Variant_New_Checkout,8.7,2,365.36,182.68,52.7,1,9,0
+CUST-1881,40,Male,North America,Basic,Control,11.1,1,85.93,85.93,37.5,1,5,0
+CUST-1882,33,Male,North America,Basic,Control,9.9,2,105.33,52.66,20.4,0,9,0
+CUST-1883,48,Male,North America,Silver,Variant_New_Checkout,16.2,1,115.15,115.15,7.5,0,7,0
+CUST-1884,28,Female,Europe,Gold,Variant_New_Checkout,13.8,9,574.46,63.83,20.3,0,7,1
+CUST-1885,33,Female,North America,Basic,Variant_New_Checkout,13.1,5,122.47,24.49,7.8,1,9,0
+CUST-1886,25,Male,Europe,Basic,Control,9.1,5,350.03,70.01,17.8,1,8,0
+CUST-1887,21,Female,North America,Basic,Variant_New_Checkout,17.9,5,281.42,56.28,13.4,1,8,0
+CUST-1888,57,Female,Europe,Basic,Variant_New_Checkout,4.4,1,73.95,73.95,6.9,0,6,0
+CUST-1889,21,Female,Asia-Pacific,Basic,Control,17.4,1,50.43,50.43,16.1,0,7,1
+CUST-1890,42,Female,Asia-Pacific,Silver,Control,12.4,3,154.63,51.54,54.7,0,9,0
+CUST-1891,20,Female,Asia-Pacific,Silver,Variant_New_Checkout,13.9,2,286.73,143.36,14.4,1,7,0
+CUST-1892,49,Female,North America,Silver,Variant_New_Checkout,10.3,13,607.87,46.76,17.0,0,10,0
+CUST-1893,20,Male,North America,Basic,Variant_New_Checkout,4.6,3,306.71,102.24,7.5,0,6,0
+CUST-1894,44,Female,Europe,Gold,Variant_New_Checkout,14.2,10,609.48,60.95,34.0,1,8,1
+CUST-1895,46,Female,North America,Basic,Variant_New_Checkout,8.4,4,217.38,54.34,21.3,1,10,0
+CUST-1896,49,Female,Europe,Silver,Variant_New_Checkout,13.7,4,118.4,29.6,26.2,0,7,0
+CUST-1897,67,Female,North America,Gold,Control,23.7,7,537.19,76.74,27.1,0,9,0
+CUST-1898,36,Female,North America,Basic,Control,10.2,4,225.48,56.37,20.9,0,10,0
+CUST-1899,38,Male,North America,Basic,Control,10.3,2,147.99,74.0,51.1,1,7,0
+CUST-1900,22,Male,Asia-Pacific,Gold,Variant_New_Checkout,19.5,8,441.62,55.2,16.8,0,7,0
+CUST-1901,35,Male,North America,Basic,Variant_New_Checkout,4.0,1,181.58,181.58,44.0,1,7,0
+CUST-1902,45,Male,Europe,Silver,Variant_New_Checkout,5.8,6,207.84,34.64,12.0,1,10,1
+CUST-1903,59,Female,North America,Basic,Control,4.8,4,271.66,67.92,35.6,1,9,0
+CUST-1904,39,Non-Binary,Europe,Silver,Variant_New_Checkout,11.3,5,423.33,84.67,4.7,1,10,0
+CUST-1905,38,Male,North America,Basic,Control,3.6,5,62.12,12.42,17.9,1,7,0
+CUST-1906,23,Male,Asia-Pacific,Basic,Control,7.4,4,183.62,45.9,32.2,0,9,0
+CUST-1907,18,Female,Asia-Pacific,Silver,Variant_New_Checkout,7.0,5,254.97,50.99,21.3,1,8,0
+CUST-1908,22,Male,North America,Basic,Variant_New_Checkout,11.2,9,524.52,58.28,66.5,1,6,0
+CUST-1909,58,Female,Latin America,Basic,Variant_New_Checkout,11.0,7,371.94,53.13,29.8,1,9,0
+CUST-1910,29,Female,Latin America,Basic,Control,8.6,5,318.73,63.75,25.1,1,10,0
+CUST-1911,43,Female,Asia-Pacific,Basic,Control,3.5,2,143.76,71.88,29.5,1,6,0
+CUST-1912,63,Male,Asia-Pacific,Basic,Control,8.8,3,99.37,33.12,28.0,1,6,0
+CUST-1913,51,Male,North America,Basic,Control,10.7,1,127.03,127.03,17.8,1,7,0
+CUST-1914,66,Female,Europe,Platinum,Variant_New_Checkout,30.5,13,1033.24,79.48,18.8,1,9,0
+CUST-1915,31,Female,North America,Basic,Variant_New_Checkout,15.2,2,143.36,71.68,37.5,1,6,0
+CUST-1916,43,Male,North America,Silver,Variant_New_Checkout,17.8,14,830.61,59.33,30.9,1,8,0
+CUST-1917,62,Female,Latin America,Basic,Control,10.1,10,229.95,22.99,8.9,1,6,1
+CUST-1918,44,Male,North America,Basic,Variant_New_Checkout,8.7,12,598.46,49.87,30.3,1,9,0
+CUST-1919,26,Female,Asia-Pacific,Platinum,Control,18.1,22,1022.25,46.47,17.7,1,6,0
+CUST-1920,43,Male,Asia-Pacific,Basic,Variant_New_Checkout,13.9,5,92.43,18.49,27.7,1,9,0
+CUST-1921,64,Female,Asia-Pacific,Platinum,Control,25.3,5,335.99,67.2,22.8,1,7,0
+CUST-1922,39,Male,Latin America,Basic,Control,11.6,5,272.21,54.44,6.9,1,6,0
+CUST-1923,64,Male,North America,Gold,Variant_New_Checkout,13.9,6,293.91,48.99,35.0,1,8,0
+CUST-1924,47,Male,North America,Silver,Variant_New_Checkout,7.6,7,443.85,63.41,49.1,0,5,0
+CUST-1925,60,Male,Europe,Gold,Control,15.0,19,1326.93,69.84,54.2,1,6,1
+CUST-1926,65,Female,North America,Silver,Control,11.7,14,716.67,51.19,11.6,0,8,0
+CUST-1927,34,Non-Binary,North America,Silver,Variant_New_Checkout,13.8,6,221.93,36.99,18.3,0,5,0
+CUST-1928,43,Male,North America,Basic,Control,7.2,14,618.82,44.2,13.7,0,3,1
+CUST-1929,53,Male,Asia-Pacific,Basic,Control,9.7,2,162.34,81.17,15.6,1,4,0
+CUST-1930,18,Female,Europe,Platinum,Control,33.4,6,504.41,84.07,23.5,0,9,0
+CUST-1931,25,Female,North America,Basic,Control,4.2,6,284.69,47.45,22.8,1,7,0
+CUST-1932,66,Female,Europe,Basic,Variant_New_Checkout,2.8,4,274.59,68.65,50.7,1,7,0
+CUST-1933,52,Male,North America,Gold,Variant_New_Checkout,24.5,15,960.9,64.06,14.0,1,9,0
+CUST-1934,32,Male,North America,Basic,Variant_New_Checkout,4.9,15,628.19,41.88,46.4,0,7,0
+CUST-1935,64,Female,Asia-Pacific,Platinum,Variant_New_Checkout,21.0,9,811.69,90.19,32.4,1,8,0
+CUST-1936,39,Male,Europe,Gold,Control,20.8,5,142.61,28.52,51.1,0,7,0
+CUST-1937,31,Female,Asia-Pacific,Silver,Control,12.7,14,703.94,50.28,26.9,1,6,0
+CUST-1938,43,Male,North America,Gold,Control,16.9,13,955.55,73.5,18.4,0,8,0
+CUST-1939,45,Female,Asia-Pacific,Basic,Control,9.8,6,224.67,37.44,3.0,0,8,0
+CUST-1940,40,Male,Europe,Basic,Control,17.7,2,63.75,31.88,13.3,0,7,0
+CUST-1941,31,Female,Europe,Silver,Variant_New_Checkout,20.7,1,141.52,141.52,12.4,1,7,0
+CUST-1942,41,Female,Europe,Basic,Variant_New_Checkout,7.4,7,134.56,19.22,16.7,0,7,0
+CUST-1943,19,Female,Asia-Pacific,Gold,Control,23.3,4,381.95,95.49,24.8,0,4,0
+CUST-1944,62,Male,Europe,Platinum,Variant_New_Checkout,28.0,13,1300.28,100.02,39.4,1,8,0
+CUST-1945,43,Female,Europe,Silver,Variant_New_Checkout,12.9,16,570.96,35.68,41.5,1,6,0
+CUST-1946,31,Female,Latin America,Basic,Variant_New_Checkout,6.7,6,449.92,74.99,26.5,0,9,0
+CUST-1947,24,Female,Asia-Pacific,Platinum,Variant_New_Checkout,27.6,7,817.9,116.84,8.8,1,8,0
+CUST-1948,20,Female,Europe,Silver,Variant_New_Checkout,11.6,7,380.11,54.3,28.3,0,8,0
+CUST-1949,64,Female,Asia-Pacific,Silver,Variant_New_Checkout,11.3,8,369.39,46.17,24.7,1,9,0
+CUST-1950,40,Female,North America,Basic,Variant_New_Checkout,7.1,2,140.49,70.24,27.2,1,6,1
+CUST-1951,63,Male,North America,Platinum,Variant_New_Checkout,32.0,9,317.53,35.28,50.5,1,8,0
+CUST-1952,60,Female,Europe,Silver,Control,9.6,2,256.08,128.04,8.6,1,8,0
+CUST-1953,64,Female,Latin America,Gold,Control,12.9,11,306.89,27.9,23.0,1,7,0
+CUST-1954,62,Male,Latin America,Gold,Variant_New_Checkout,21.8,14,484.39,34.6,8.0,0,6,0
+CUST-1955,35,Male,North America,Basic,Control,9.1,6,448.65,74.77,17.1,1,8,0
+CUST-1956,55,Male,Europe,Silver,Control,12.5,3,152.58,50.86,8.4,0,8,1
+CUST-1957,52,Female,North America,Gold,Variant_New_Checkout,23.2,8,370.19,46.27,29.7,0,8,0
+CUST-1958,32,Female,Latin America,Basic,Control,13.8,3,366.42,122.14,44.3,1,6,0
+CUST-1959,42,Female,Latin America,Gold,Variant_New_Checkout,5.0,11,679.45,61.77,30.1,1,7,1
+CUST-1960,54,Female,Europe,Platinum,Variant_New_Checkout,23.0,7,730.29,104.33,7.2,1,8,0
+CUST-1961,45,Male,Asia-Pacific,Silver,Variant_New_Checkout,6.9,5,406.23,81.25,20.4,1,9,0
+CUST-1962,27,Male,Asia-Pacific,Gold,Control,15.1,7,404.02,57.72,16.3,1,5,0
+CUST-1963,56,Male,Europe,Gold,Control,17.2,8,436.96,54.62,3.9,0,6,0
+CUST-1964,34,Male,North America,Gold,Variant_New_Checkout,15.2,17,1162.31,68.37,56.7,0,7,1
+CUST-1965,56,Male,Europe,Basic,Variant_New_Checkout,6.3,2,135.11,67.56,54.8,1,8,0
+CUST-1966,39,Male,Europe,Basic,Variant_New_Checkout,6.2,2,244.5,122.25,11.7,1,6,1
+CUST-1967,43,Female,Europe,Silver,Control,16.1,2,167.15,83.58,36.4,0,7,0
+CUST-1968,61,Female,North America,Silver,Control,19.6,10,461.46,46.15,24.8,0,7,0
+CUST-1969,42,Non-Binary,Latin America,Silver,Variant_New_Checkout,4.1,5,343.57,68.71,23.1,0,6,0
+CUST-1970,34,Female,North America,Gold,Control,15.4,2,312.56,156.28,72.2,0,7,1
+CUST-1971,30,Female,Europe,Basic,Variant_New_Checkout,11.9,4,262.57,65.64,33.9,1,7,0
+CUST-1972,37,Male,Europe,Silver,Control,12.8,11,471.02,42.82,13.5,0,8,0
+CUST-1973,42,Female,Europe,Basic,Control,6.0,10,713.17,71.32,21.9,0,6,0
+CUST-1974,21,Female,Europe,Gold,Control,14.5,7,347.32,49.62,20.3,1,7,0
+CUST-1975,27,Male,North America,Silver,Control,14.3,4,431.67,107.92,34.7,1,6,0
+CUST-1976,20,Male,North America,Basic,Variant_New_Checkout,8.6,9,219.43,24.38,17.5,1,7,0
+CUST-1977,58,Female,Europe,Basic,Variant_New_Checkout,9.4,9,559.2,62.13,38.7,1,8,0
+CUST-1978,62,Male,Europe,Gold,Control,17.2,18,932.82,51.82,28.9,1,8,0
+CUST-1979,35,Female,North America,Silver,Variant_New_Checkout,10.7,7,280.58,40.08,2.8,1,7,0
+CUST-1980,64,Female,Asia-Pacific,Basic,Control,12.2,3,212.16,70.72,9.8,0,7,0
+CUST-1981,53,Male,Europe,Platinum,Variant_New_Checkout,20.2,7,323.9,46.27,13.8,1,6,0
+CUST-1982,64,Male,Europe,Gold,Control,11.5,8,701.5,87.69,22.1,1,9,0
+CUST-1983,39,Male,Asia-Pacific,Platinum,Variant_New_Checkout,41.8,15,1004.72,66.98,12.7,0,9,0
+CUST-1984,51,Male,North America,Silver,Variant_New_Checkout,12.6,3,317.68,105.89,11.0,1,9,0
+CUST-1985,64,Male,North America,Silver,Variant_New_Checkout,1.7,10,506.02,50.6,39.2,1,5,1
+CUST-1986,25,Female,Asia-Pacific,Gold,Variant_New_Checkout,24.5,6,379.11,63.18,42.3,1,7,0
+CUST-1987,57,Male,Europe,Silver,Variant_New_Checkout,18.4,6,291.24,48.54,23.1,1,7,0
+CUST-1988,66,Female,Europe,Gold,Variant_New_Checkout,19.9,15,705.43,47.03,21.4,1,5,0
+CUST-1989,61,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.6,2,165.05,82.52,21.5,1,9,0
+CUST-1990,36,Female,Asia-Pacific,Silver,Variant_New_Checkout,22.3,7,410.12,58.59,55.3,0,10,0
+CUST-1991,59,Male,Latin America,Basic,Variant_New_Checkout,6.5,7,175.37,25.05,11.5,1,10,0
+CUST-1992,58,Male,Europe,Basic,Control,10.0,9,590.44,65.6,66.0,1,6,0
+CUST-1993,54,Female,Europe,Basic,Variant_New_Checkout,15.9,5,259.49,51.9,16.4,1,8,0
+CUST-1994,23,Female,Europe,Basic,Control,16.6,5,207.91,41.58,19.9,0,9,0
+CUST-1995,43,Male,North America,Platinum,Variant_New_Checkout,21.1,5,541.27,108.25,19.9,0,7,0
+CUST-1996,51,Female,Europe,Basic,Control,16.0,2,106.9,53.45,11.7,0,6,0
+CUST-1997,62,Male,North America,Silver,Variant_New_Checkout,16.4,5,160.4,32.08,6.0,0,5,1
+CUST-1998,23,Female,Latin America,Gold,Control,25.9,18,842.07,46.78,18.4,0,9,1
+CUST-1999,54,Male,Europe,Silver,Control,16.3,2,169.43,84.72,25.4,0,7,1
+CUST-2000,50,Male,Europe,Basic,Control,10.6,5,162.81,32.56,48.4,0,6,1
+CUST-2001,39,Female,North America,Gold,Variant_New_Checkout,30.0,7,425.98,60.85,20.3,0,8,0
+CUST-2002,38,Female,North America,Silver,Control,10.7,6,303.75,50.62,24.3,0,7,0
+CUST-2003,23,Male,North America,Gold,Control,28.2,7,426.74,60.96,21.1,1,7,0
+CUST-2004,23,Female,Europe,Gold,Variant_New_Checkout,29.1,11,601.64,54.69,41.2,0,7,0
+CUST-2005,65,Female,North America,Platinum,Variant_New_Checkout,34.9,18,1203.5,66.86,20.8,1,10,0
+CUST-2006,21,Male,Europe,Silver,Control,12.7,4,299.79,74.95,34.0,0,7,0
+CUST-2007,47,Female,Asia-Pacific,Basic,Control,10.4,4,69.55,17.39,17.0,1,10,0
+CUST-2008,28,Male,Asia-Pacific,Silver,Control,7.5,6,411.57,68.6,26.0,0,8,0
+CUST-2009,47,Female,Europe,Basic,Variant_New_Checkout,8.2,6,278.55,46.42,46.4,0,8,0
+CUST-2010,48,Female,North America,Gold,Control,20.9,6,323.65,53.94,21.2,1,7,0
+CUST-2011,41,Female,Asia-Pacific,Basic,Control,5.0,1,158.28,158.28,6.0,0,9,0
+CUST-2012,26,Male,Asia-Pacific,Basic,Control,8.6,7,515.25,73.61,29.8,0,7,1
+CUST-2013,20,Male,North America,Gold,Control,28.5,10,392.26,39.23,20.3,1,6,0
+CUST-2014,48,Male,Asia-Pacific,Silver,Variant_New_Checkout,12.3,3,213.83,71.28,21.9,1,6,0
+CUST-2015,57,Male,North America,Basic,Control,12.9,2,287.8,143.9,28.9,0,8,0
+CUST-2016,54,Male,Asia-Pacific,Silver,Control,15.4,7,590.43,84.35,45.4,1,6,0
+CUST-2017,53,Female,Latin America,Gold,Control,15.5,4,200.43,50.11,14.1,1,7,0
+CUST-2018,41,Male,North America,Basic,Control,9.1,7,464.38,66.34,24.7,1,9,0
+CUST-2019,48,Male,Asia-Pacific,Gold,Control,18.2,3,156.06,52.02,32.4,1,8,0
+CUST-2020,23,Female,Europe,Basic,Variant_New_Checkout,3.0,7,294.31,42.04,38.7,1,7,0
+CUST-2021,19,Male,Latin America,Gold,Variant_New_Checkout,22.7,12,684.89,57.07,14.4,1,10,0
+CUST-2022,37,Female,Europe,Gold,Variant_New_Checkout,16.6,9,304.88,33.88,23.0,0,9,0
+CUST-2023,45,Male,Asia-Pacific,Basic,Variant_New_Checkout,12.7,4,142.78,35.7,10.5,1,9,1
+CUST-2024,28,Female,North America,Silver,Variant_New_Checkout,14.6,8,257.46,32.18,23.0,0,4,0
+CUST-2025,21,Male,North America,Basic,Control,9.1,8,480.5,60.06,31.1,1,8,0
+CUST-2026,32,Male,North America,Gold,Variant_New_Checkout,18.4,11,548.85,49.9,11.7,1,9,0
+CUST-2027,23,Female,Latin America,Silver,Variant_New_Checkout,13.8,4,150.78,37.7,36.3,1,10,0
+CUST-2028,66,Male,Asia-Pacific,Silver,Variant_New_Checkout,19.3,19,833.75,43.88,36.5,0,6,0
+CUST-2029,47,Female,Asia-Pacific,Basic,Variant_New_Checkout,9.8,3,185.3,61.77,26.8,0,10,0
+CUST-2030,55,Male,Latin America,Basic,Control,10.5,5,266.08,53.22,4.9,0,10,0
+CUST-2031,19,Male,North America,Basic,Variant_New_Checkout,5.6,7,395.57,56.51,31.6,1,5,1
+CUST-2032,32,Female,North America,Basic,Variant_New_Checkout,9.4,5,374.27,74.85,7.4,0,9,0
+CUST-2033,28,Male,North America,Silver,Variant_New_Checkout,19.2,6,253.37,42.23,31.6,1,9,0
+CUST-2034,25,Female,North America,Gold,Control,19.8,15,523.08,34.87,27.5,0,7,0
+CUST-2035,43,Non-Binary,North America,Silver,Control,8.3,7,376.27,53.75,27.0,1,6,1
+CUST-2036,62,Female,Europe,Silver,Control,8.8,8,326.95,40.87,6.2,0,8,0
+CUST-2037,61,Female,North America,Platinum,Variant_New_Checkout,18.1,18,1504.48,83.58,26.4,1,7,0
+CUST-2038,22,Male,North America,Gold,Control,23.0,1,255.94,255.94,34.8,0,7,0
+CUST-2039,23,Male,North America,Platinum,Control,31.0,4,294.17,73.54,12.9,1,8,0
+CUST-2040,43,Male,North America,Silver,Variant_New_Checkout,0.5,4,430.9,107.72,41.1,1,10,0
+CUST-2041,21,Female,Latin America,Basic,Control,9.3,11,300.92,27.36,10.7,1,8,0
+CUST-2042,36,Non-Binary,Asia-Pacific,Basic,Variant_New_Checkout,10.1,6,360.28,60.05,29.2,0,8,0
+CUST-2043,37,Male,Latin America,Gold,Control,11.7,2,184.99,92.5,50.8,1,6,0
+CUST-2044,50,Female,Europe,Basic,Variant_New_Checkout,8.4,4,345.85,86.46,22.8,0,6,0
+CUST-2045,37,Male,North America,Basic,Variant_New_Checkout,13.9,4,89.33,22.33,6.4,0,9,0
+CUST-2046,66,Female,Asia-Pacific,Silver,Variant_New_Checkout,14.7,8,269.62,33.7,39.9,0,8,0
+CUST-2047,29,Male,North America,Silver,Variant_New_Checkout,10.8,2,110.92,55.46,27.5,0,10,0
+CUST-2048,64,Non-Binary,North America,Silver,Control,12.2,3,172.33,57.44,57.5,0,7,0
+CUST-2049,18,Female,North America,Basic,Control,8.9,6,460.95,76.82,14.4,1,6,0
+CUST-2050,43,Male,North America,Basic,Control,10.5,1,116.33,116.33,34.2,1,8,0
+CUST-2051,31,Male,North America,Silver,Variant_New_Checkout,6.8,8,433.72,54.22,39.0,1,8,0
+CUST-2052,55,Male,North America,Platinum,Variant_New_Checkout,18.6,3,191.66,63.89,8.2,1,6,0
+CUST-2053,54,Male,Europe,Gold,Control,23.2,3,137.05,45.68,16.6,1,10,0
+CUST-2054,28,Male,North America,Platinum,Variant_New_Checkout,23.4,10,431.7,43.17,11.6,1,7,0
+CUST-2055,53,Female,North America,Gold,Control,12.4,5,161.47,32.29,46.6,0,9,0
+CUST-2056,30,Female,Asia-Pacific,Silver,Variant_New_Checkout,9.5,7,311.78,44.54,27.9,0,9,0
+CUST-2057,60,Female,North America,Basic,Variant_New_Checkout,11.9,5,256.48,51.3,35.8,1,6,1
+CUST-2058,20,Male,North America,Silver,Control,10.7,3,146.45,48.82,41.8,0,6,0
+CUST-2059,50,Female,Asia-Pacific,Silver,Control,15.2,7,324.95,46.42,2.8,1,7,0
+CUST-2060,23,Female,North America,Silver,Control,10.3,4,79.04,19.76,59.4,1,6,1
+CUST-2061,67,Male,North America,Silver,Variant_New_Checkout,8.1,15,901.11,60.07,14.5,0,10,1
+CUST-2062,27,Female,Europe,Silver,Variant_New_Checkout,14.0,10,616.89,61.69,42.9,1,7,0
+CUST-2063,22,Female,North America,Basic,Control,9.3,6,131.51,21.92,50.2,1,9,0
+CUST-2064,40,Male,Europe,Silver,Control,15.9,8,488.23,61.03,6.0,0,8,0
+CUST-2065,27,Male,Asia-Pacific,Basic,Control,12.4,8,270.1,33.76,44.1,1,8,0
+CUST-2066,61,Female,North America,Gold,Variant_New_Checkout,15.2,8,511.32,63.92,20.3,1,8,0
+CUST-2067,19,Male,Europe,Basic,Variant_New_Checkout,10.7,2,136.88,68.44,31.5,1,10,1
+CUST-2068,30,Female,Europe,Basic,Control,8.4,5,102.92,20.58,26.2,1,6,0
+CUST-2069,57,Female,North America,Silver,Variant_New_Checkout,15.7,4,186.52,46.63,6.4,1,10,0
+CUST-2070,19,Female,Europe,Silver,Variant_New_Checkout,14.0,9,431.98,48.0,42.0,0,6,1
+CUST-2071,37,Male,North America,Silver,Control,10.3,4,213.3,53.32,52.3,1,8,0
+CUST-2072,18,Male,Europe,Basic,Control,7.3,2,110.31,55.16,26.2,1,5,0
+CUST-2073,54,Female,North America,Silver,Variant_New_Checkout,14.1,5,579.35,115.87,3.6,1,7,1
+CUST-2074,26,Female,Europe,Basic,Variant_New_Checkout,13.3,3,169.12,56.37,23.0,1,8,1
+CUST-2075,34,Male,North America,Platinum,Control,31.2,14,659.71,47.12,42.0,0,6,0
+CUST-2076,26,Female,Asia-Pacific,Platinum,Control,16.5,4,338.42,84.6,49.5,1,7,0
+CUST-2077,28,Female,North America,Silver,Control,9.3,3,104.73,34.91,22.1,0,5,0
+CUST-2078,32,Male,Europe,Basic,Variant_New_Checkout,7.4,7,469.94,67.13,11.7,1,6,0
+CUST-2079,41,Male,Europe,Gold,Control,13.8,6,177.57,29.6,37.3,0,8,0
+CUST-2080,55,Female,Asia-Pacific,Basic,Control,3.8,11,446.07,40.55,43.3,1,7,0
+CUST-2081,52,Male,Europe,Silver,Variant_New_Checkout,16.4,6,332.42,55.4,54.4,1,7,0
+CUST-2082,47,Male,Europe,Basic,Variant_New_Checkout,8.1,6,257.55,42.92,39.8,1,10,0
+CUST-2083,48,Male,Asia-Pacific,Platinum,Control,27.7,17,881.65,51.86,24.6,0,5,1
+CUST-2084,66,Male,Asia-Pacific,Basic,Control,8.6,5,319.3,63.86,11.2,1,7,0
+CUST-2085,22,Female,North America,Silver,Variant_New_Checkout,12.9,7,376.25,53.75,8.0,1,7,0
+CUST-2086,61,Female,Europe,Gold,Control,13.3,8,305.36,38.17,35.3,0,8,0
+CUST-2087,67,Male,Asia-Pacific,Silver,Control,12.8,8,412.33,51.54,21.6,1,7,0
+CUST-2088,31,Female,Latin America,Basic,Variant_New_Checkout,6.8,9,381.75,42.42,48.8,1,8,1
+CUST-2089,28,Female,Asia-Pacific,Platinum,Control,23.8,7,176.25,25.18,39.2,0,4,1
+CUST-2090,26,Female,North America,Silver,Variant_New_Checkout,19.3,5,327.64,65.53,15.3,1,9,0
+CUST-2091,51,Male,North America,Silver,Variant_New_Checkout,15.2,1,87.4,87.4,54.3,0,7,0
+CUST-2092,29,Male,Europe,Basic,Control,10.5,4,284.26,71.06,41.8,1,7,0
+CUST-2093,52,Non-Binary,Asia-Pacific,Silver,Control,7.3,2,137.18,68.59,34.2,1,6,0
+CUST-2094,52,Female,Europe,Silver,Variant_New_Checkout,15.4,10,430.95,43.1,36.5,1,6,0
+CUST-2095,18,Male,Europe,Basic,Variant_New_Checkout,11.7,4,238.35,59.59,57.4,0,10,0
+CUST-2096,57,Male,Asia-Pacific,Basic,Variant_New_Checkout,10.5,4,313.97,78.49,30.3,0,5,1
+CUST-2097,39,Male,North America,Gold,Variant_New_Checkout,18.5,15,955.76,63.72,24.7,0,6,0
+CUST-2098,46,Female,Asia-Pacific,Basic,Control,9.2,2,118.61,59.3,27.1,1,9,0
+CUST-2099,25,Female,Europe,Basic,Variant_New_Checkout,11.7,7,248.11,35.44,44.3,0,9,0
+CUST-2100,28,Female,North America,Silver,Control,19.0,6,317.12,52.85,26.6,1,7,0
+CUST-2101,58,Male,Europe,Gold,Control,19.2,2,162.72,81.36,27.6,1,9,0
+CUST-2102,54,Female,Asia-Pacific,Basic,Control,6.5,3,358.22,119.41,8.9,0,8,0
+CUST-2103,31,Female,North America,Silver,Control,9.1,12,635.67,52.97,5.6,1,8,0
+CUST-2104,47,Male,North America,Basic,Variant_New_Checkout,11.9,5,292.8,58.56,17.9,1,8,0
+CUST-2105,52,Female,Latin America,Basic,Control,6.5,9,541.78,60.2,17.2,1,8,1
+CUST-2106,38,Non-Binary,North America,Basic,Control,10.2,7,303.52,43.36,42.8,0,8,1
+CUST-2107,54,Male,Europe,Gold,Control,15.3,5,421.26,84.25,13.8,1,10,1
+CUST-2108,22,Female,Europe,Basic,Variant_New_Checkout,6.2,11,403.67,36.7,21.6,1,8,1
+CUST-2109,36,Male,Europe,Basic,Variant_New_Checkout,12.3,5,234.04,46.81,42.0,0,8,0
+CUST-2110,31,Female,Europe,Silver,Control,16.0,4,256.42,64.1,27.8,1,5,0
+CUST-2111,43,Female,North America,Gold,Control,9.5,12,539.83,44.99,16.1,1,7,0
+CUST-2112,21,Female,Europe,Basic,Control,11.1,15,602.75,40.18,3.8,0,10,0
+CUST-2113,42,Female,North America,Silver,Variant_New_Checkout,14.4,3,196.77,65.59,27.9,0,9,0
+CUST-2114,62,Male,Europe,Basic,Variant_New_Checkout,12.3,3,142.25,47.42,39.6,1,7,1
+CUST-2115,59,Female,North America,Silver,Variant_New_Checkout,13.7,9,383.28,42.59,44.7,1,8,0
+CUST-2116,42,Female,Europe,Silver,Variant_New_Checkout,19.1,2,91.38,45.69,55.2,1,6,0
+CUST-2117,35,Male,North America,Silver,Control,12.4,4,225.71,56.43,39.8,0,6,0
+CUST-2118,57,Female,North America,Basic,Variant_New_Checkout,8.7,5,238.39,47.68,48.6,1,8,0
+CUST-2119,25,Female,North America,Basic,Variant_New_Checkout,6.5,7,182.78,26.11,11.1,1,7,0
+CUST-2120,56,Male,North America,Basic,Control,6.6,8,451.39,56.42,62.8,1,6,0
+CUST-2121,57,Female,Asia-Pacific,Basic,Control,6.3,9,435.55,48.39,42.5,0,8,0
+CUST-2122,31,Female,North America,Basic,Variant_New_Checkout,10.3,8,617.87,77.23,41.7,0,8,0
+CUST-2123,49,Male,Latin America,Gold,Variant_New_Checkout,15.7,6,412.24,68.71,31.2,0,5,1
+CUST-2124,55,Non-Binary,Latin America,Platinum,Control,26.6,11,604.33,54.94,16.7,0,4,0
+CUST-2125,50,Male,Europe,Platinum,Variant_New_Checkout,14.3,9,420.19,46.69,12.8,1,7,0
+CUST-2126,40,Male,North America,Gold,Variant_New_Checkout,12.4,13,738.18,56.78,13.4,1,5,0
+CUST-2127,32,Male,North America,Silver,Control,9.2,2,94.03,47.02,31.2,0,4,0
+CUST-2128,50,Female,Asia-Pacific,Gold,Control,29.8,9,305.52,33.95,32.0,0,9,0
+CUST-2129,42,Female,North America,Basic,Control,9.1,7,410.24,58.61,50.5,0,7,0
+CUST-2130,34,Male,North America,Silver,Variant_New_Checkout,12.7,5,302.09,60.42,38.7,1,7,0
+CUST-2131,50,Male,Europe,Silver,Control,12.6,5,204.96,40.99,50.1,1,7,1
+CUST-2132,64,Female,Asia-Pacific,Silver,Control,19.7,4,178.14,44.54,19.5,1,5,0
+CUST-2133,19,Male,Asia-Pacific,Gold,Variant_New_Checkout,8.0,6,237.66,39.61,31.6,1,8,0
+CUST-2134,31,Female,North America,Basic,Variant_New_Checkout,9.4,1,195.84,195.84,64.3,1,8,0
+CUST-2135,57,Female,Europe,Basic,Control,4.4,2,283.74,141.87,9.8,1,6,0
+CUST-2136,57,Female,North America,Platinum,Control,5.0,6,550.36,91.73,16.4,0,6,0
+CUST-2137,56,Non-Binary,North America,Basic,Control,7.3,13,468.69,36.05,60.2,1,5,1
+CUST-2138,23,Male,Asia-Pacific,Silver,Variant_New_Checkout,14.7,4,119.21,29.8,38.6,1,7,0
+CUST-2139,23,Non-Binary,North America,Platinum,Variant_New_Checkout,17.6,11,387.97,35.27,55.6,0,7,1
+CUST-2140,20,Female,North America,Silver,Control,14.7,2,122.63,61.32,18.4,1,7,0
+CUST-2141,24,Female,North America,Silver,Variant_New_Checkout,13.4,2,215.1,107.55,9.6,1,8,0
+CUST-2142,25,Male,Asia-Pacific,Basic,Variant_New_Checkout,9.2,6,175.01,29.17,20.6,1,8,1
+CUST-2143,59,Female,Asia-Pacific,Basic,Variant_New_Checkout,13.6,4,319.43,79.86,57.6,0,8,0
+CUST-2144,32,Male,Europe,Gold,Variant_New_Checkout,13.8,8,590.86,73.86,59.6,1,9,0
+CUST-2145,64,Male,Asia-Pacific,Silver,Control,14.6,11,398.91,36.26,21.0,0,8,0
+CUST-2146,46,Male,North America,Silver,Control,5.2,6,475.27,79.21,50.9,1,9,0
+CUST-2147,50,Female,Europe,Basic,Variant_New_Checkout,9.9,5,407.75,81.55,47.8,1,7,0
+CUST-2148,47,Female,North America,Basic,Variant_New_Checkout,8.8,3,300.43,100.14,33.3,1,7,1
+CUST-2149,56,Female,North America,Platinum,Variant_New_Checkout,14.5,7,879.25,125.61,17.1,1,9,0
+CUST-2150,44,Female,Europe,Basic,Control,10.9,4,182.33,45.58,32.6,0,8,0
+CUST-2151,53,Male,Latin America,Silver,Variant_New_Checkout,9.8,3,134.63,44.88,3.8,0,7,1
+CUST-2152,46,Female,North America,Basic,Variant_New_Checkout,15.1,5,177.17,35.43,21.1,1,9,0
+CUST-2153,55,Male,North America,Silver,Control,2.4,11,622.11,56.56,27.6,0,6,0
+CUST-2154,50,Female,North America,Platinum,Control,26.0,5,251.69,50.34,10.3,0,8,1
+CUST-2155,54,Female,North America,Silver,Variant_New_Checkout,13.1,5,261.78,52.36,19.4,1,8,0
+CUST-2156,44,Female,Latin America,Basic,Variant_New_Checkout,8.7,2,114.69,57.34,15.2,1,6,0
+CUST-2157,50,Female,Europe,Silver,Control,10.7,13,492.28,37.87,13.2,0,7,1
+CUST-2158,21,Male,Europe,Gold,Variant_New_Checkout,17.7,11,405.15,36.83,54.8,1,10,0
+CUST-2159,39,Male,Asia-Pacific,Silver,Control,17.5,3,232.02,77.34,52.7,1,8,0
+CUST-2160,19,Female,North America,Gold,Control,7.6,2,77.07,38.53,22.2,0,10,0
+CUST-2161,27,Male,Europe,Silver,Variant_New_Checkout,9.5,5,335.06,67.01,27.6,1,6,0
+CUST-2162,22,Male,Europe,Gold,Variant_New_Checkout,11.2,13,742.88,57.14,33.9,0,9,0
+CUST-2163,27,Female,Europe,Silver,Variant_New_Checkout,8.2,7,440.84,62.98,22.7,1,4,0
+CUST-2164,50,Female,Latin America,Basic,Variant_New_Checkout,10.7,5,183.66,36.73,20.1,1,8,0
+CUST-2165,55,Male,Asia-Pacific,Basic,Control,11.5,1,115.53,115.53,24.4,1,8,0
+CUST-2166,30,Male,North America,Basic,Variant_New_Checkout,13.0,3,267.44,89.15,4.0,1,9,0
+CUST-2167,48,Female,Asia-Pacific,Platinum,Control,28.8,6,172.1,28.68,24.1,1,6,0
+CUST-2168,64,Female,North America,Gold,Control,21.2,5,523.31,104.66,33.6,1,9,0
+CUST-2169,53,Male,North America,Silver,Control,6.9,6,129.67,21.61,13.5,0,6,0
+CUST-2170,62,Male,North America,Basic,Control,14.3,3,119.51,39.84,19.1,0,7,0
+CUST-2171,41,Male,North America,Basic,Control,8.9,2,117.1,58.55,29.2,0,7,0
+CUST-2172,32,Male,Europe,Gold,Control,23.2,12,576.93,48.08,53.3,0,5,0
+CUST-2173,46,Male,Europe,Silver,Control,7.0,6,148.67,24.78,24.1,1,10,0
+CUST-2174,25,Female,Latin America,Basic,Control,8.8,5,118.34,23.67,26.7,0,7,0
+CUST-2175,22,Female,Europe,Silver,Variant_New_Checkout,17.0,13,688.99,53.0,12.9,1,9,0
+CUST-2176,46,Female,Europe,Basic,Control,9.7,6,302.32,50.39,26.5,1,9,0
+CUST-2177,64,Male,North America,Basic,Control,7.2,8,227.72,28.46,32.5,0,6,0
+CUST-2178,21,Female,North America,Silver,Variant_New_Checkout,18.6,10,337.39,33.74,25.3,1,10,1
+CUST-2179,29,Male,Europe,Basic,Variant_New_Checkout,5.9,3,78.48,26.16,5.9,0,9,0
+CUST-2180,62,Non-Binary,Europe,Platinum,Variant_New_Checkout,23.8,6,633.14,105.52,28.0,1,6,0
+CUST-2181,19,Female,Asia-Pacific,Basic,Control,11.6,5,431.64,86.33,14.8,1,8,0
+CUST-2182,44,Male,North America,Basic,Variant_New_Checkout,16.3,4,142.61,35.65,1.8,1,6,0
+CUST-2183,48,Female,North America,Basic,Control,8.1,1,70.56,70.56,13.6,1,10,0
+CUST-2184,53,Male,Europe,Gold,Control,15.7,3,75.3,25.1,41.9,0,8,1
+CUST-2185,53,Female,North America,Silver,Control,11.0,2,125.91,62.96,15.2,0,7,0
+CUST-2186,43,Male,North America,Silver,Variant_New_Checkout,14.0,2,128.62,64.31,34.7,1,10,0
+CUST-2187,60,Male,Asia-Pacific,Basic,Control,11.5,7,254.15,36.31,26.4,1,5,0
+CUST-2188,44,Female,North America,Basic,Control,13.1,4,296.97,74.24,23.8,1,6,0
+CUST-2189,22,Male,Europe,Silver,Control,16.2,6,413.7,68.95,16.5,0,7,0
+CUST-2190,37,Female,North America,Gold,Variant_New_Checkout,14.4,3,299.53,99.84,51.5,1,10,0
+CUST-2191,28,Male,North America,Gold,Variant_New_Checkout,22.0,11,744.59,67.69,57.0,0,6,0
+CUST-2192,27,Female,North America,Basic,Control,9.9,2,41.92,20.96,30.5,0,5,0
+CUST-2193,57,Female,Asia-Pacific,Silver,Variant_New_Checkout,16.2,5,209.93,41.99,30.7,0,6,0
+CUST-2194,55,Female,North America,Platinum,Variant_New_Checkout,30.4,13,426.29,32.79,11.0,1,9,0
+CUST-2195,23,Male,Asia-Pacific,Basic,Variant_New_Checkout,14.8,11,347.31,31.57,26.1,0,7,0
+CUST-2196,25,Male,North America,Gold,Control,15.2,1,128.27,128.27,26.2,0,7,0
+CUST-2197,40,Male,Asia-Pacific,Basic,Variant_New_Checkout,7.9,5,241.41,48.28,13.2,0,9,0
+CUST-2198,64,Male,North America,Platinum,Control,27.6,19,902.28,47.49,58.6,0,7,0
+CUST-2199,43,Female,Europe,Gold,Variant_New_Checkout,24.1,12,624.91,52.08,31.8,1,8,0
+CUST-2200,63,Female,Europe,Platinum,Control,24.5,4,350.14,87.54,35.7,0,8,0
+CUST-2201,60,Female,Latin America,Silver,Control,18.4,10,368.23,36.82,27.1,0,7,0
+CUST-2202,29,Female,North America,Basic,Control,11.8,4,148.14,37.03,36.5,0,7,0
+CUST-2203,43,Female,North America,Platinum,Variant_New_Checkout,22.4,9,411.73,45.75,20.6,1,8,0
+CUST-2204,30,Female,North America,Basic,Control,11.4,2,188.01,94.0,38.5,1,9,0
+CUST-2205,57,Male,Asia-Pacific,Basic,Variant_New_Checkout,8.2,9,560.65,62.29,16.2,1,7,0
+CUST-2206,35,Female,Europe,Gold,Control,18.7,16,899.75,56.23,44.1,0,3,1
+CUST-2207,42,Female,Asia-Pacific,Gold,Variant_New_Checkout,11.1,10,680.16,68.02,20.9,1,9,0
+CUST-2208,50,Female,North America,Platinum,Variant_New_Checkout,23.5,5,276.11,55.22,35.9,1,9,0
+CUST-2209,64,Male,North America,Basic,Variant_New_Checkout,12.8,8,397.24,49.66,28.1,1,8,0
+CUST-2210,57,Male,North America,Gold,Variant_New_Checkout,21.7,12,382.38,31.86,13.1,1,8,0
+CUST-2211,60,Male,Latin America,Gold,Variant_New_Checkout,20.9,10,559.0,55.9,54.2,1,7,1
+CUST-2212,29,Female,Europe,Basic,Control,10.5,2,131.51,65.76,24.4,1,8,0
+CUST-2213,61,Female,Latin America,Basic,Variant_New_Checkout,10.1,7,358.98,51.28,30.1,1,9,0
+CUST-2214,53,Male,North America,Basic,Control,5.5,10,327.67,32.77,41.8,0,7,0
+CUST-2215,65,Non-Binary,Europe,Basic,Variant_New_Checkout,8.9,6,268.2,44.7,45.3,0,10,0
+CUST-2216,21,Male,Europe,Platinum,Variant_New_Checkout,25.5,16,776.37,48.52,48.0,1,5,0
+CUST-2217,22,Male,North America,Silver,Control,8.1,1,121.08,121.08,18.3,1,7,0
+CUST-2218,54,Male,Asia-Pacific,Gold,Control,7.2,12,528.23,44.02,17.7,0,5,1
+CUST-2219,25,Female,Latin America,Platinum,Control,33.0,10,345.51,34.55,24.5,0,9,0
+CUST-2220,59,Female,Asia-Pacific,Basic,Variant_New_Checkout,9.8,10,491.38,49.14,49.0,0,5,1
+CUST-2221,66,Male,Asia-Pacific,Gold,Variant_New_Checkout,18.5,3,341.91,113.97,61.1,0,6,0
+CUST-2222,45,Female,North America,Silver,Variant_New_Checkout,15.4,4,126.78,31.7,37.4,0,7,0
+CUST-2223,48,Male,North America,Gold,Variant_New_Checkout,11.6,12,826.33,68.86,4.7,1,8,0
+CUST-2224,26,Female,Latin America,Basic,Variant_New_Checkout,8.3,4,240.75,60.19,59.2,1,7,0
+CUST-2225,46,Female,North America,Platinum,Control,36.0,19,801.39,42.18,35.0,0,6,0
+CUST-2226,31,Female,Asia-Pacific,Basic,Control,8.0,5,214.76,42.95,21.3,0,7,0
+CUST-2227,57,Male,Asia-Pacific,Basic,Variant_New_Checkout,8.7,2,87.79,43.9,26.4,1,7,0
+CUST-2228,58,Non-Binary,Europe,Gold,Variant_New_Checkout,13.4,5,355.49,71.1,30.4,0,10,0
+CUST-2229,39,Female,Latin America,Basic,Variant_New_Checkout,7.2,8,242.44,30.3,56.7,0,9,0
+CUST-2230,28,Male,North America,Silver,Control,17.7,6,442.42,73.74,46.8,0,7,0
+CUST-2231,40,Female,North America,Silver,Control,2.3,9,311.45,34.61,5.7,1,10,0
+CUST-2232,18,Male,North America,Gold,Control,14.6,5,308.13,61.63,28.2,1,8,0
+CUST-2233,63,Female,Europe,Basic,Control,10.3,1,178.61,178.61,12.7,0,6,0
+CUST-2234,54,Male,North America,Basic,Control,15.0,6,315.25,52.54,50.0,1,8,0
+CUST-2235,38,Female,North America,Basic,Variant_New_Checkout,6.0,4,387.0,96.75,43.8,1,9,0
+CUST-2236,43,Female,Asia-Pacific,Silver,Control,7.3,7,145.01,20.72,16.3,0,6,0
+CUST-2237,63,Male,Latin America,Basic,Variant_New_Checkout,6.8,4,247.5,61.88,31.3,0,6,1
+CUST-2238,53,Male,North America,Basic,Control,11.8,12,335.3,27.94,54.1,1,7,0
+CUST-2239,40,Male,North America,Basic,Variant_New_Checkout,10.0,15,536.59,35.77,41.8,0,7,0
+CUST-2240,18,Male,Latin America,Basic,Control,5.0,9,432.27,48.03,24.6,1,9,0
+CUST-2241,57,Male,North America,Silver,Control,13.4,4,104.79,26.2,22.2,1,8,1
+CUST-2242,32,Female,North America,Gold,Control,26.2,4,377.37,94.34,30.3,0,6,0
+CUST-2243,38,Male,North America,Basic,Variant_New_Checkout,10.4,2,103.09,51.54,58.6,0,8,0
+CUST-2244,64,Male,Europe,Silver,Variant_New_Checkout,13.7,15,683.64,45.58,18.2,1,10,0
+CUST-2245,26,Female,North America,Silver,Control,13.9,6,326.24,54.37,42.5,1,5,0
+CUST-2246,26,Male,Latin America,Silver,Control,14.8,5,458.4,91.68,8.5,1,6,0
+CUST-2247,27,Female,Europe,Gold,Variant_New_Checkout,10.0,5,228.75,45.75,36.2,0,8,1
+CUST-2248,43,Female,Europe,Silver,Control,12.0,3,189.66,63.22,6.7,0,7,0
+CUST-2249,58,Female,North America,Silver,Control,12.2,7,353.86,50.55,37.2,1,7,1
+CUST-2250,52,Female,Europe,Basic,Variant_New_Checkout,8.1,10,462.09,46.21,42.5,1,7,0
+CUST-2251,42,Female,Europe,Silver,Variant_New_Checkout,15.9,2,111.53,55.76,17.1,1,7,1
+CUST-2252,43,Male,Asia-Pacific,Silver,Control,10.2,14,521.72,37.27,51.9,0,8,0
+CUST-2253,28,Male,Asia-Pacific,Basic,Control,8.4,5,243.19,48.64,43.6,0,9,0
+CUST-2254,55,Male,Europe,Basic,Variant_New_Checkout,5.6,4,89.42,22.36,25.5,1,7,0
+CUST-2255,19,Female,Latin America,Platinum,Control,27.0,11,791.23,71.93,42.6,0,10,0
+CUST-2256,24,Male,Asia-Pacific,Silver,Control,17.0,9,442.19,49.13,2.9,1,10,0
+CUST-2257,35,Female,Asia-Pacific,Silver,Variant_New_Checkout,11.4,3,343.32,114.44,56.7,1,10,0
+CUST-2258,44,Non-Binary,North America,Platinum,Variant_New_Checkout,30.5,3,414.13,138.04,7.4,1,9,0
+CUST-2259,51,Female,North America,Gold,Control,16.4,3,219.15,73.05,14.3,1,10,0
+CUST-2260,44,Female,North America,Silver,Variant_New_Checkout,2.0,7,391.87,55.98,2.3,0,7,0
+CUST-2261,34,Male,Europe,Gold,Variant_New_Checkout,17.0,6,176.43,29.4,31.3,0,7,0
+CUST-2262,60,Female,Europe,Gold,Control,16.3,10,824.2,82.42,8.7,0,6,0
+CUST-2263,61,Female,Europe,Silver,Variant_New_Checkout,13.4,2,181.18,90.59,38.4,1,6,0
+CUST-2264,41,Male,Asia-Pacific,Silver,Control,14.1,7,493.71,70.53,28.5,1,7,0
+CUST-2265,42,Male,Asia-Pacific,Basic,Control,7.4,3,322.09,107.36,6.9,1,8,0
+CUST-2266,24,Female,Latin America,Platinum,Variant_New_Checkout,35.8,13,678.6,52.2,29.1,0,8,0
+CUST-2267,23,Female,North America,Silver,Control,12.7,6,515.31,85.88,18.0,0,7,0
+CUST-2268,41,Female,Europe,Basic,Control,9.0,1,108.72,108.72,39.8,1,7,0
+CUST-2269,50,Female,North America,Gold,Control,21.6,7,662.39,94.63,11.7,1,10,0
+CUST-2270,66,Female,North America,Silver,Control,13.0,12,485.34,40.44,21.5,1,8,0
+CUST-2271,46,Female,North America,Basic,Variant_New_Checkout,17.8,6,395.78,65.96,19.6,0,9,0
+CUST-2272,60,Male,North America,Silver,Variant_New_Checkout,12.1,5,426.78,85.36,32.4,1,8,0
+CUST-2273,39,Male,Europe,Silver,Variant_New_Checkout,14.5,3,193.14,64.38,17.3,1,5,0
+CUST-2274,43,Male,Asia-Pacific,Gold,Control,13.0,10,303.93,30.39,51.9,1,4,1
+CUST-2275,45,Female,North America,Basic,Control,12.4,7,388.98,55.57,41.9,1,10,0
+CUST-2276,67,Female,Asia-Pacific,Gold,Control,19.1,2,309.13,154.56,33.6,1,6,0
+CUST-2277,38,Female,Europe,Silver,Control,11.5,2,145.2,72.6,58.0,0,6,0
+CUST-2278,66,Male,North America,Basic,Control,6.8,13,647.37,49.8,4.3,0,8,0
+CUST-2279,24,Female,Europe,Platinum,Variant_New_Checkout,13.5,4,197.96,49.49,40.6,1,9,0
+CUST-2280,34,Female,North America,Silver,Variant_New_Checkout,14.8,3,226.42,75.47,44.8,1,9,0
+CUST-2281,37,Female,Europe,Basic,Variant_New_Checkout,5.2,4,348.13,87.03,18.6,0,10,0
+CUST-2282,58,Female,Europe,Silver,Control,18.6,13,918.17,70.63,32.1,0,9,0
+CUST-2283,66,Male,North America,Gold,Variant_New_Checkout,10.0,8,365.65,45.71,34.4,1,7,0
+CUST-2284,37,Female,North America,Basic,Control,9.0,2,174.2,87.1,9.7,0,9,0
+CUST-2285,39,Male,Europe,Basic,Control,6.8,1,204.54,204.54,39.9,0,7,0
+CUST-2286,45,Male,Latin America,Basic,Variant_New_Checkout,9.7,4,139.34,34.84,47.0,1,8,0
+CUST-2287,57,Female,North America,Basic,Variant_New_Checkout,9.7,1,117.63,117.63,23.5,1,6,1
+CUST-2288,66,Female,Asia-Pacific,Gold,Control,19.8,13,659.57,50.74,11.0,0,5,0
+CUST-2289,24,Female,Europe,Silver,Control,6.4,2,303.68,151.84,9.2,0,7,0
+CUST-2290,18,Female,Latin America,Basic,Control,7.2,1,56.23,56.23,17.3,1,6,1
+CUST-2291,49,Female,Asia-Pacific,Basic,Variant_New_Checkout,12.7,5,157.37,31.47,51.0,1,9,0
+CUST-2292,30,Female,Europe,Basic,Control,11.7,13,492.36,37.87,33.7,1,7,0
+CUST-2293,47,Female,Europe,Platinum,Variant_New_Checkout,4.0,20,1111.48,55.57,30.2,0,8,0
+CUST-2294,40,Male,Asia-Pacific,Basic,Control,10.8,1,125.61,125.61,36.4,1,9,0
+CUST-2295,36,Male,North America,Platinum,Control,15.7,14,705.38,50.38,45.6,0,5,1
+CUST-2296,49,Male,North America,Silver,Control,10.4,2,100.94,50.47,32.8,0,6,0
+CUST-2297,47,Male,North America,Basic,Variant_New_Checkout,8.9,2,173.22,86.61,76.3,1,8,0
+CUST-2298,46,Male,Asia-Pacific,Gold,Control,26.3,23,1601.29,69.62,28.9,0,8,0
+CUST-2299,66,Male,Asia-Pacific,Silver,Variant_New_Checkout,8.5,4,378.49,94.62,50.4,1,9,0
+CUST-2300,62,Male,North America,Gold,Variant_New_Checkout,9.2,6,310.16,51.69,57.0,1,9,1
+CUST-2301,46,Non-Binary,Europe,Platinum,Variant_New_Checkout,27.6,5,549.0,109.8,35.5,1,8,0
+CUST-2302,47,Male,Europe,Basic,Variant_New_Checkout,9.5,2,169.9,84.95,22.4,0,8,1
+CUST-2303,33,Female,North America,Basic,Variant_New_Checkout,13.5,2,103.59,51.8,18.7,0,8,0
+CUST-2304,57,Male,Latin America,Gold,Variant_New_Checkout,15.2,18,819.22,45.51,24.8,1,6,0
+CUST-2305,36,Female,North America,Basic,Variant_New_Checkout,13.5,2,90.33,45.16,26.4,0,8,0
+CUST-2306,35,Male,North America,Basic,Control,9.7,8,306.61,38.33,42.9,0,8,0
+CUST-2307,18,Male,Europe,Basic,Control,11.3,1,187.35,187.35,18.7,1,8,0
+CUST-2308,31,Female,Asia-Pacific,Basic,Control,14.8,9,436.69,48.52,16.6,1,6,1
+CUST-2309,64,Male,North America,Gold,Control,16.3,7,341.46,48.78,8.8,1,5,0
+CUST-2310,67,Male,Europe,Basic,Control,12.9,4,234.88,58.72,54.0,0,7,0
+CUST-2311,19,Male,Europe,Silver,Variant_New_Checkout,10.3,7,303.72,43.39,29.7,1,10,1
+CUST-2312,45,Male,North America,Silver,Control,13.9,5,401.8,80.36,5.6,1,6,0
+CUST-2313,66,Male,North America,Silver,Control,6.7,8,145.23,18.15,24.7,1,9,0
+CUST-2314,67,Male,Europe,Basic,Variant_New_Checkout,8.0,2,178.4,89.2,16.4,1,10,0
+CUST-2315,47,Female,North America,Gold,Control,11.2,16,761.21,47.58,38.2,1,7,0
+CUST-2316,55,Female,Latin America,Basic,Control,13.5,6,316.21,52.7,0.1,1,6,1
+CUST-2317,21,Female,Asia-Pacific,Gold,Control,27.3,12,460.28,38.36,18.9,1,8,0
+CUST-2318,18,Male,Latin America,Gold,Control,15.2,6,423.69,70.61,10.8,0,7,0
+CUST-2319,25,Female,North America,Silver,Control,9.6,7,227.68,32.53,22.5,0,6,0
+CUST-2320,46,Male,Latin America,Silver,Variant_New_Checkout,7.3,5,285.75,57.15,36.0,1,7,0
+CUST-2321,56,Male,Europe,Silver,Variant_New_Checkout,14.1,7,390.07,55.72,40.3,1,8,0
+CUST-2322,20,Female,North America,Basic,Control,7.7,7,330.14,47.16,34.8,1,9,0
+CUST-2323,49,Male,North America,Gold,Control,14.1,6,458.75,76.46,14.4,1,7,0
+CUST-2324,27,Male,North America,Gold,Control,26.7,11,586.38,53.31,11.9,0,7,1
+CUST-2325,27,Female,Europe,Basic,Variant_New_Checkout,8.7,1,311.54,311.54,12.5,1,9,0
+CUST-2326,36,Female,Europe,Silver,Control,15.5,2,76.75,38.38,20.3,1,7,1
+CUST-2327,63,Female,North America,Platinum,Control,24.4,8,417.4,52.18,4.4,1,7,0
+CUST-2328,51,Female,Europe,Platinum,Variant_New_Checkout,13.2,12,416.21,34.68,7.5,1,7,0
+CUST-2329,50,Non-Binary,North America,Silver,Control,5.0,4,110.94,27.74,2.2,1,6,0
+CUST-2330,40,Male,Europe,Silver,Control,15.1,3,406.1,135.37,7.1,0,10,1
+CUST-2331,45,Male,North America,Basic,Control,15.1,7,355.63,50.8,13.6,1,7,0
+CUST-2332,49,Male,Asia-Pacific,Platinum,Variant_New_Checkout,26.5,11,548.91,49.9,15.3,0,10,0
+CUST-2333,67,Male,Asia-Pacific,Basic,Variant_New_Checkout,11.6,4,145.25,36.31,5.0,1,10,0
+CUST-2334,24,Male,Europe,Silver,Variant_New_Checkout,9.1,3,164.68,54.89,30.3,1,8,0
+CUST-2335,46,Female,North America,Basic,Control,12.8,4,120.11,30.03,40.0,1,8,1
+CUST-2336,25,Female,North America,Basic,Variant_New_Checkout,12.8,4,180.6,45.15,52.7,0,8,0
+CUST-2337,18,Female,Asia-Pacific,Silver,Variant_New_Checkout,10.0,6,244.41,40.74,43.9,1,5,1
+CUST-2338,20,Male,North America,Platinum,Variant_New_Checkout,28.4,11,583.91,53.08,17.3,1,5,0
+CUST-2339,41,Female,North America,Basic,Control,3.9,5,510.69,102.14,42.3,1,7,1
+CUST-2340,40,Female,North America,Silver,Variant_New_Checkout,16.1,7,415.5,59.36,30.3,1,7,0
+CUST-2341,25,Female,Europe,Basic,Control,7.8,5,402.37,80.47,33.7,1,10,0
+CUST-2342,64,Male,Europe,Basic,Control,5.7,4,119.5,29.88,16.1,0,7,0
+CUST-2343,54,Female,Asia-Pacific,Silver,Variant_New_Checkout,14.7,5,225.59,45.12,10.1,1,10,0
+CUST-2344,20,Male,North America,Silver,Control,5.3,8,298.7,37.34,21.1,0,6,0
+CUST-2345,50,Male,North America,Basic,Variant_New_Checkout,10.7,3,309.43,103.14,8.3,1,10,0
+CUST-2346,45,Male,Asia-Pacific,Basic,Control,6.0,5,152.9,30.58,34.7,0,8,0
+CUST-2347,64,Female,Asia-Pacific,Basic,Variant_New_Checkout,5.3,2,233.96,116.98,22.7,1,9,0
+CUST-2348,25,Female,North America,Basic,Variant_New_Checkout,9.8,8,506.97,63.37,25.3,1,7,0
+CUST-2349,51,Male,Europe,Platinum,Variant_New_Checkout,22.6,5,426.35,85.27,52.4,0,9,0
+CUST-2350,52,Male,North America,Platinum,Control,35.7,5,412.52,82.5,10.5,1,10,0
+CUST-2351,49,Male,Latin America,Basic,Control,5.5,3,102.39,34.13,3.3,0,7,1
+CUST-2352,41,Male,North America,Silver,Variant_New_Checkout,18.9,10,626.41,62.64,33.7,1,7,0
+CUST-2353,31,Male,Latin America,Platinum,Control,14.9,2,140.26,70.13,20.4,0,7,0
+CUST-2354,49,Male,Europe,Basic,Variant_New_Checkout,12.5,10,274.45,27.44,29.2,1,10,0
+CUST-2355,63,Female,Europe,Gold,Variant_New_Checkout,23.7,8,439.34,54.92,40.5,0,9,0
+CUST-2356,60,Male,North America,Platinum,Control,26.6,4,328.98,82.24,70.6,1,9,0
+CUST-2357,33,Male,Europe,Basic,Control,7.1,2,120.75,60.38,47.2,1,8,0
+CUST-2358,21,Male,Europe,Basic,Control,4.7,3,152.06,50.69,23.1,0,7,0
+CUST-2359,54,Female,North America,Platinum,Variant_New_Checkout,8.4,3,373.54,124.51,13.1,0,8,0
+CUST-2360,38,Female,Europe,Silver,Control,21.0,5,155.08,31.02,30.1,1,9,0
+CUST-2361,31,Female,Latin America,Basic,Control,8.7,4,211.02,52.76,13.6,1,7,0
+CUST-2362,48,Male,Europe,Basic,Control,6.1,2,125.09,62.54,35.0,1,9,1
+CUST-2363,65,Female,Asia-Pacific,Silver,Variant_New_Checkout,8.0,4,349.81,87.45,60.8,1,8,1
+CUST-2364,35,Male,North America,Silver,Control,13.7,5,376.81,75.36,76.0,1,4,0
+CUST-2365,24,Female,Europe,Gold,Control,15.0,11,318.81,28.98,32.2,0,9,0
+CUST-2366,27,Female,North America,Platinum,Variant_New_Checkout,8.6,13,572.62,44.05,17.6,1,6,0
+CUST-2367,24,Female,Europe,Basic,Variant_New_Checkout,12.4,4,471.31,117.83,27.6,1,9,0
+CUST-2368,50,Female,Latin America,Silver,Variant_New_Checkout,14.4,12,439.63,36.64,25.3,0,9,0
+CUST-2369,40,Female,Europe,Silver,Control,20.9,2,112.44,56.22,9.3,1,8,0
+CUST-2370,38,Male,North America,Silver,Control,17.9,4,469.92,117.48,30.0,0,8,0
+CUST-2371,36,Female,North America,Basic,Variant_New_Checkout,0.5,11,623.65,56.7,16.4,0,9,0
+CUST-2372,65,Male,Europe,Platinum,Control,35.3,16,839.56,52.47,23.5,0,6,0
+CUST-2373,36,Female,Europe,Gold,Variant_New_Checkout,24.2,5,408.58,81.72,32.3,0,9,1
+CUST-2374,53,Male,Asia-Pacific,Silver,Variant_New_Checkout,9.8,7,441.63,63.09,57.0,0,10,0
+CUST-2375,46,Male,Asia-Pacific,Silver,Control,11.1,11,422.65,38.42,54.2,1,10,0
+CUST-2376,35,Male,Europe,Basic,Variant_New_Checkout,10.9,4,393.16,98.29,17.9,1,6,0
+CUST-2377,19,Male,North America,Silver,Variant_New_Checkout,8.6,4,267.81,66.95,36.2,0,8,1
+CUST-2378,18,Female,North America,Silver,Control,11.9,1,101.25,101.25,51.1,1,6,1
+CUST-2379,64,Female,North America,Silver,Variant_New_Checkout,17.3,5,252.01,50.4,16.5,1,6,0
+CUST-2380,22,Male,North America,Platinum,Control,28.1,13,600.64,46.2,33.7,0,8,0
+CUST-2381,37,Male,Europe,Silver,Control,10.1,13,565.3,43.48,16.5,0,7,0
+CUST-2382,28,Female,Europe,Basic,Control,12.9,6,327.99,54.66,29.1,1,9,0
+CUST-2383,59,Male,Europe,Gold,Variant_New_Checkout,19.0,8,377.55,47.19,32.9,0,7,0
+CUST-2384,19,Female,North America,Basic,Variant_New_Checkout,10.5,8,239.51,29.94,48.6,0,8,0
+CUST-2385,20,Female,North America,Basic,Variant_New_Checkout,8.0,1,70.0,70.0,57.5,0,8,1
+CUST-2386,40,Female,North America,Basic,Control,9.6,2,218.83,109.42,50.8,0,6,0
+CUST-2387,29,Female,North America,Silver,Variant_New_Checkout,9.6,3,163.91,54.64,48.1,1,7,1
+CUST-2388,37,Male,Asia-Pacific,Gold,Control,6.1,14,1038.12,74.15,25.9,0,9,0
+CUST-2389,22,Female,North America,Silver,Variant_New_Checkout,11.8,2,167.11,83.56,12.4,1,7,0
+CUST-2390,54,Male,Europe,Gold,Control,16.6,1,54.83,54.83,6.2,0,9,0
+CUST-2391,55,Male,North America,Silver,Control,13.6,4,192.54,48.14,48.4,0,8,1
+CUST-2392,47,Female,Asia-Pacific,Basic,Control,13.5,4,411.29,102.82,48.5,1,5,1
+CUST-2393,26,Male,Europe,Gold,Variant_New_Checkout,13.5,12,400.19,33.35,26.3,1,9,0
+CUST-2394,51,Female,North America,Basic,Control,8.4,4,261.29,65.32,54.2,1,8,0
+CUST-2395,61,Female,Europe,Basic,Variant_New_Checkout,12.1,4,131.52,32.88,24.8,0,8,0
+CUST-2396,52,Female,Asia-Pacific,Silver,Control,9.7,1,244.47,244.47,36.0,0,7,1
+CUST-2397,39,Female,Latin America,Basic,Control,10.1,10,265.5,26.55,59.0,1,6,1
+CUST-2398,61,Male,North America,Basic,Control,8.3,2,132.54,66.27,4.8,0,9,0
+CUST-2399,41,Male,Asia-Pacific,Silver,Variant_New_Checkout,11.9,8,447.33,55.92,29.1,0,8,0
+CUST-2400,34,Female,Latin America,Silver,Variant_New_Checkout,16.2,5,239.36,47.87,38.9,1,6,1
+CUST-2401,27,Male,Latin America,Silver,Control,11.3,2,157.18,78.59,11.6,1,8,0
+CUST-2402,47,Female,Europe,Platinum,Control,30.3,11,759.83,69.08,37.9,1,6,0
+CUST-2403,63,Female,Europe,Silver,Control,4.5,2,191.0,95.5,13.1,0,6,1
+CUST-2404,40,Female,Europe,Gold,Variant_New_Checkout,9.0,6,488.61,81.44,35.4,0,7,1
+CUST-2405,49,Male,Asia-Pacific,Basic,Control,2.2,4,221.42,55.36,28.9,1,6,0
+CUST-2406,34,Male,Europe,Silver,Variant_New_Checkout,7.9,8,487.43,60.93,49.2,1,6,1
+CUST-2407,67,Male,Europe,Gold,Variant_New_Checkout,28.0,10,463.89,46.39,13.5,1,9,0
+CUST-2408,34,Male,Europe,Silver,Control,12.9,10,371.72,37.17,18.8,0,7,0
+CUST-2409,31,Female,Asia-Pacific,Gold,Control,13.1,2,86.28,43.14,44.6,0,9,0
+CUST-2410,26,Male,Asia-Pacific,Basic,Variant_New_Checkout,12.1,9,597.5,66.39,13.6,1,7,1
+CUST-2411,57,Male,North America,Basic,Variant_New_Checkout,12.6,8,299.96,37.49,29.6,1,5,0
+CUST-2412,19,Male,Asia-Pacific,Silver,Control,7.7,6,304.31,50.72,36.4,0,7,1
+CUST-2413,62,Female,Europe,Basic,Control,17.6,2,58.4,29.2,28.4,1,10,0
+CUST-2414,42,Female,Asia-Pacific,Gold,Control,18.9,23,824.3,35.84,42.5,1,8,1
+CUST-2415,56,Male,Europe,Basic,Control,10.9,5,197.49,39.5,51.5,0,10,0
+CUST-2416,26,Male,North America,Platinum,Control,28.0,14,918.93,65.64,36.9,0,8,0
+CUST-2417,39,Male,Latin America,Platinum,Control,28.0,9,388.29,43.14,10.8,0,8,0
+CUST-2418,60,Male,North America,Basic,Variant_New_Checkout,7.6,2,222.14,111.07,19.8,1,5,1
+CUST-2419,63,Female,Asia-Pacific,Basic,Control,16.4,1,72.23,72.23,18.4,1,8,0
+CUST-2420,21,Female,Europe,Gold,Control,15.6,9,561.17,62.35,39.2,1,7,0
+CUST-2421,43,Male,Europe,Platinum,Control,31.7,8,486.64,60.83,18.0,1,7,0
+CUST-2422,46,Male,North America,Silver,Variant_New_Checkout,10.9,11,575.25,52.3,3.5,1,8,0
+CUST-2423,62,Non-Binary,Europe,Basic,Variant_New_Checkout,7.5,6,258.62,43.1,54.7,1,8,0
+CUST-2424,51,Male,North America,Silver,Control,21.2,10,541.99,54.2,11.3,0,7,0
+CUST-2425,40,Female,North America,Silver,Control,12.5,3,562.4,187.47,22.7,1,10,0
+CUST-2426,54,Male,North America,Basic,Variant_New_Checkout,9.5,10,226.87,22.69,36.7,1,7,0
+CUST-2427,28,Female,North America,Gold,Control,18.9,6,262.34,43.72,22.8,1,7,1
+CUST-2428,23,Male,Latin America,Basic,Control,17.9,1,36.99,36.99,23.6,0,7,0
+CUST-2429,35,Female,Latin America,Basic,Control,16.5,6,115.11,19.18,79.2,1,8,0
+CUST-2430,38,Non-Binary,North America,Basic,Control,13.7,13,683.53,52.58,19.5,0,7,0
+CUST-2431,59,Male,Asia-Pacific,Basic,Control,18.7,6,168.44,28.07,54.6,1,7,0
+CUST-2432,53,Male,North America,Basic,Variant_New_Checkout,6.6,1,82.31,82.31,19.4,0,5,0
+CUST-2433,58,Male,Europe,Silver,Variant_New_Checkout,15.8,2,130.56,65.28,48.2,1,8,0
+CUST-2434,55,Male,Asia-Pacific,Basic,Control,9.8,3,191.58,63.86,9.5,1,7,0
+CUST-2435,51,Male,Latin America,Basic,Variant_New_Checkout,3.9,5,147.53,29.51,12.9,1,8,0
+CUST-2436,34,Male,Europe,Basic,Control,11.1,5,222.98,44.6,46.1,0,5,0
+CUST-2437,54,Female,Asia-Pacific,Platinum,Control,20.1,4,237.39,59.35,20.0,0,9,0
+CUST-2438,42,Male,North America,Silver,Variant_New_Checkout,19.6,5,291.79,58.36,69.7,0,9,0
+CUST-2439,55,Male,Latin America,Silver,Variant_New_Checkout,11.3,14,857.95,61.28,31.2,1,10,0
+CUST-2440,29,Female,North America,Silver,Control,11.0,9,219.37,24.37,34.0,1,9,0
+CUST-2441,40,Male,Europe,Platinum,Control,36.3,9,491.45,54.61,19.8,1,8,0
+CUST-2442,59,Female,Europe,Basic,Variant_New_Checkout,9.4,4,228.58,57.14,9.7,0,6,1
+CUST-2443,39,Male,Europe,Silver,Variant_New_Checkout,18.0,10,353.41,35.34,22.9,1,10,0
+CUST-2444,38,Female,North America,Gold,Variant_New_Checkout,19.7,10,522.39,52.24,4.0,1,6,0
+CUST-2445,44,Female,Latin America,Silver,Control,14.9,4,335.79,83.95,41.5,0,7,0
+CUST-2446,48,Female,North America,Basic,Control,8.8,6,226.71,37.79,16.8,0,8,0
+CUST-2447,23,Non-Binary,Europe,Silver,Control,15.1,6,251.89,41.98,30.8,1,8,0
+CUST-2448,44,Male,North America,Basic,Control,9.2,8,323.3,40.41,36.2,1,8,0
+CUST-2449,57,Non-Binary,North America,Silver,Variant_New_Checkout,9.5,3,164.7,54.9,17.1,1,7,1
+CUST-2450,51,Male,Europe,Gold,Control,16.7,1,279.12,279.12,32.0,1,6,0
+CUST-2451,29,Male,Europe,Basic,Control,13.7,2,72.39,36.2,22.2,1,10,1
+CUST-2452,62,Male,North America,Gold,Variant_New_Checkout,20.4,11,506.63,46.06,20.6,1,8,0
+CUST-2453,24,Female,North America,Basic,Control,12.1,8,315.45,39.43,30.0,0,7,1
+CUST-2454,27,Male,Europe,Gold,Control,17.3,6,212.02,35.34,19.8,1,6,0
+CUST-2455,62,Female,Asia-Pacific,Silver,Variant_New_Checkout,4.6,6,411.57,68.6,58.3,1,8,0
+CUST-2456,34,Female,Asia-Pacific,Basic,Variant_New_Checkout,5.7,3,84.46,28.15,8.8,1,8,0
+CUST-2457,43,Female,North America,Basic,Variant_New_Checkout,8.7,4,128.18,32.04,25.3,1,8,0
+CUST-2458,38,Female,North America,Platinum,Control,14.9,8,246.98,30.87,10.4,1,8,0
+CUST-2459,45,Male,North America,Basic,Variant_New_Checkout,7.9,5,280.5,56.1,69.4,1,10,0
+CUST-2460,63,Male,North America,Basic,Variant_New_Checkout,7.8,5,175.31,35.06,54.6,0,7,0
+CUST-2461,19,Male,Europe,Basic,Control,7.9,1,16.9,16.9,51.7,1,7,0
+CUST-2462,60,Male,Europe,Silver,Control,19.2,16,1066.58,66.66,2.1,0,6,0
+CUST-2463,18,Male,North America,Silver,Variant_New_Checkout,12.7,3,260.98,86.99,34.2,1,8,1
+CUST-2464,53,Male,North America,Basic,Control,12.6,5,181.59,36.32,24.0,0,6,0
+CUST-2465,43,Male,North America,Basic,Variant_New_Checkout,10.1,13,449.8,34.6,46.1,0,7,1
+CUST-2466,46,Non-Binary,Asia-Pacific,Basic,Control,14.1,4,124.21,31.05,26.6,0,5,0
+CUST-2467,38,Female,Latin America,Basic,Control,12.9,2,182.45,91.22,21.8,0,7,0
+CUST-2468,28,Male,North America,Silver,Control,10.4,9,545.17,60.57,36.9,1,8,1
+CUST-2469,57,Female,North America,Gold,Variant_New_Checkout,28.6,3,325.24,108.41,40.6,1,10,0
+CUST-2470,28,Male,Asia-Pacific,Basic,Control,8.1,3,63.74,21.25,26.7,1,8,0
+CUST-2471,53,Male,Latin America,Basic,Variant_New_Checkout,10.2,7,453.53,64.79,41.9,1,7,0
+CUST-2472,66,Female,Europe,Basic,Variant_New_Checkout,10.8,7,250.04,35.72,24.4,1,6,1
+CUST-2473,56,Female,North America,Platinum,Variant_New_Checkout,27.9,6,553.21,92.2,34.6,1,6,0
+CUST-2474,57,Male,North America,Platinum,Variant_New_Checkout,30.4,17,1143.88,67.29,67.4,1,6,0
+CUST-2475,52,Non-Binary,Europe,Gold,Variant_New_Checkout,12.9,4,453.1,113.28,26.2,1,10,0
+CUST-2476,51,Female,North America,Basic,Control,11.9,3,106.5,35.5,43.6,1,8,0
+CUST-2477,64,Female,North America,Basic,Variant_New_Checkout,11.5,7,384.69,54.96,38.6,1,7,0
+CUST-2478,41,Female,Europe,Basic,Variant_New_Checkout,9.6,4,215.49,53.87,21.3,0,6,1
+CUST-2479,39,Female,North America,Basic,Control,9.0,6,181.18,30.2,30.2,1,6,0
+CUST-2480,22,Male,Asia-Pacific,Silver,Control,9.5,15,838.98,55.93,18.5,1,6,0
+CUST-2481,50,Male,North America,Gold,Variant_New_Checkout,20.0,10,583.52,58.35,16.6,1,10,0
+CUST-2482,53,Male,North America,Gold,Control,13.5,11,392.68,35.7,23.4,0,7,0
+CUST-2483,64,Male,Europe,Gold,Variant_New_Checkout,18.7,16,947.66,59.23,10.3,1,6,0
+CUST-2484,37,Female,North America,Basic,Control,9.3,2,84.81,42.4,37.3,0,10,0
+CUST-2485,36,Male,Latin America,Silver,Control,7.2,5,282.33,56.47,24.7,1,5,0
+CUST-2486,52,Non-Binary,Europe,Basic,Variant_New_Checkout,6.6,1,187.05,187.05,65.6,1,7,0
+CUST-2487,60,Female,North America,Basic,Control,10.9,3,133.25,44.42,16.4,0,9,0
+CUST-2488,34,Female,Asia-Pacific,Gold,Control,14.3,7,486.68,69.53,54.1,0,8,0
+CUST-2489,62,Female,North America,Basic,Variant_New_Checkout,7.8,4,190.17,47.54,73.8,1,7,0
+CUST-2490,60,Female,Latin America,Silver,Control,9.7,12,344.25,28.69,34.4,1,5,1
+CUST-2491,51,Male,North America,Basic,Variant_New_Checkout,7.3,9,215.56,23.95,23.3,0,6,0
+CUST-2492,26,Female,Europe,Silver,Variant_New_Checkout,20.1,4,297.99,74.5,26.9,1,6,1
+CUST-2493,43,Male,North America,Gold,Variant_New_Checkout,10.8,4,256.61,64.15,43.3,1,8,0
+CUST-2494,19,Female,Europe,Basic,Control,14.3,13,640.18,49.24,32.6,1,7,1
+CUST-2495,26,Male,Asia-Pacific,Gold,Control,15.4,2,177.56,88.78,8.6,0,7,0
+CUST-2496,26,Female,Asia-Pacific,Basic,Variant_New_Checkout,7.5,5,178.79,35.76,11.0,0,8,0
+CUST-2497,57,Female,North America,Silver,Variant_New_Checkout,14.6,10,507.5,50.75,60.0,1,6,0
+CUST-2498,34,Male,North America,Gold,Variant_New_Checkout,17.6,11,345.62,31.42,5.3,0,8,0
+CUST-2499,18,Male,Asia-Pacific,Silver,Variant_New_Checkout,12.1,6,355.97,59.33,16.6,1,10,0

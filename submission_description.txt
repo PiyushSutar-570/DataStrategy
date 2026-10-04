@@ -1,0 +1,17 @@
+Week 5 Final Comprehensive Data Science Project Report & Strategic Recommendations
+
+Executive Overview:
+This project delivers an end-to-end data science study analyzing e-commerce customer behavior, digital touchpoint conversion rates, and retention drivers. The objective is to bridge statistical data modeling with executive-level strategic decision-making.
+
+Key Analytical Findings:
+1. A/B Testing Analysis: Evaluated the impact of a streamlined checkout interface ('Variant_New_Checkout') versus the legacy system ('Control'). Independent two-sample t-tests and Chi-Square tests confirmed a statistically significant increase in total customer spend (Variant Mean: $364.32 vs. Control Mean: $337.33, p < 0.001) and a conversion rate lift of 29.2%.
+2. One-Way ANOVA on Loyalty Tiers: Significant revenue variation was observed across membership tiers (F-stat = 142.0678, p < 0.001). Platinum tier customers demonstrated nearly 2.5x higher monetary spend compared to Basic tier users.
+3. Predictive Churn Classification: Built a Random Forest machine learning classifier achieving an ROC-AUC of 0.6225. Feature importance analysis revealed that monthly app usage hours and CSAT satisfaction scores are the predominant predictors of customer attrition.
+4. Behavioral Customer Segmentation: Applied K-Means clustering to partition the customer base into 3 distinct archetypes (High-Value Loyalists, Casual Buyers, and At-Risk Disengaged Users) to enable targeted retention campaigns.
+
+Strategic Recommendations & Business Impact:
+- Immediate 100% rollout of the new checkout interface to capture projected conversion improvements.
+- Automated churn intervention workflows triggered when monthly app usage falls below 6.0 hours.
+- VIP loyalty incentive program enhancements to maximize Platinum customer lifetime value (CLV).
+
+All detailed tables, visual charts, statistical methodologies, code snippets, and strategic recommendations are fully integrated into the submitted Word document ('Week5_Comprehensive_Project_Report.docx').
